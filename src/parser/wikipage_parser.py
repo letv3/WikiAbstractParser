@@ -1,8 +1,11 @@
 import re, csv, datetime
 
-PATH_TO_FILE = '../../data/enwiki-latest-pages-articles1.xml-p1p41242'
-SMALL_FILE = '../../data/wikidata-pagesample.xml'
+MEDIAWIKI_ARTICLES_DUMPFILE_PATH = '../../data/enwiki-latest-pages-articles1.xml-p1p41242'
+MEDIAWIKI_ABSTRACTS_DUMPFILE_PATH = '../../data/enwiki-latest-abstract.xml'
 
+PARSED_MEDIAWIKI_ABSTRACTS_PATH = '../../data/document_base/mediawiki_abstracts.csv'
+PARSED_ABSTRACTS_PATH = '../../data/document_base/parsed_abstracts.csv'
+WRITE_PATH = [PARSED_ABSTRACTS_PATH, PARSED_MEDIAWIKI_ABSTRACTS_PATH]
 
 class AbstractExtractor:
 
@@ -14,7 +17,7 @@ class AbstractExtractor:
         self.path_to_wiki_abstracts = path_to_wiki_abstracts
         self.number_of_abstracts = number_of_abstracts
 
-    def parse_abstract_from_wiki_articles(self):
+    def parse_abstracts_from_wiki_articles(self):
         title_pattern = re.compile("\s*<title>([^\n]*)</title>\s*").match
         abstract_pattern = re.compile("'''([^\n]*)").match
         header_pattern = re.compile("(={1,6})([^\n]+?)(={1,6})[ \t]*(\n|\Z)").match
@@ -37,7 +40,7 @@ class AbstractExtractor:
                     page_abstract = abs.group(1)
                 elif abstract_parsing and (not header_pattern(line)):
                     page_abstract += line
-                elif header_pattern(line) and abstract_parsing:
+                elif abstract_parsing and header_pattern(line):
                     abstract_parsing = False
                     idx += 1
                     parsed_pages.append((title_str, page_abstract))
@@ -61,21 +64,21 @@ class AbstractExtractor:
         return parsed_abstracts
 
 
-def write_abstracts_to_csv(parsed_abstracts, prepared=True):
-    path_to_write_docs = '../../data/document_base/wiki_abstracts.csv' if prepared \
-        else '../../data/document_base/parsed_abstracts.csv'
-    print(path_to_write_docs)
+def write_abstracts_to_csv(parsed_abstracts, path_to_write_docs):
     with open(path_to_write_docs, 'w', newline='') as prepared_abs_file:
-        filed_names = ['docID', 'title', 'abstract']
-        writer = csv.writer(prepared_abs_file, delimiter='\t')
+        writer = csv.writer(prepared_abs_file, delimiter='\t', quoting=csv.QUOTE_NONE, escapechar=' ')
         for idx, abstract in enumerate(parsed_abstracts):
-            writer.writerow([str(idx)] + list(abstract))
+            abstract = [abstract[0], abstract[1].replace('\n', ' ')]
+            writer.writerow([str(idx)] + abstract)
 
 
 if __name__ == "__main__":
     abs_extractor = AbstractExtractor();
     print(f"started parsing: {datetime.datetime.now()}")
-    parsed_abstracts = abs_extractor.parse_abstract_from_wiki_articles()
-    print(f"finished parsing and started writing to file: {datetime.datetime.now()}")
-    write_abstracts_to_csv(parsed_abstracts, prepared=False)
+    #parse abstracts from articles dump
+    selfparsed_abstracts = abs_extractor.parse_abstracts_from_wiki_articles()
+    write_abstracts_to_csv(selfparsed_abstracts, PARSED_ABSTRACTS_PATH)
+    # extract abstracts from mediawiki dump
+    mediawiki_parsed_abstracts = abs_extractor.parse_abstracts_from_wiki_abstracts()
+    write_abstracts_to_csv(mediawiki_parsed_abstracts, PARSED_MEDIAWIKI_ABSTRACTS_PATH)
     print(f"finished: {datetime.datetime.now()}")
