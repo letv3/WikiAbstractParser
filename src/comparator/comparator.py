@@ -19,10 +19,4 @@ class TextSimilarityComparator:
         res = cosine_similarity(trsfm[0:1], trsfm).tolist()
         similarity = round(res[0][1],2)
         return similarity
-#
-# firsr = 'Katia Ndtid'
-# sec = 'katia Yulia'
-# p = TextSimilarityComparator()
-# a = round(p.compare_texts(firsr, sec),2)
-#
-# print(a)
+
