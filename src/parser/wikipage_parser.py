@@ -12,7 +12,7 @@ class AbstractExtractor:
     def __init__(self,
                  path_to_wiki_articles='../../data/enwiki-latest-pages-articles1.xml-p1p41242',
                  path_to_wiki_abstracts='../../data/enwiki-latest-abstract.xml',
-                 number_of_abstracts=100):
+                 number_of_abstracts=1000):
         self.path_to_wiki_articles = path_to_wiki_articles
         self.path_to_wiki_abstracts = path_to_wiki_abstracts
         self.number_of_abstracts = number_of_abstracts
