@@ -73,7 +73,7 @@ def write_abstracts_to_csv(parsed_abstracts, path_to_write_docs):
 
 
 if __name__ == "__main__":
-    abs_extractor = AbstractExtractor();
+    abs_extractor = AbstractExtractor()
     print(f"started parsing: {datetime.datetime.now()}")
     #parse abstracts from articles dump
     selfparsed_abstracts = abs_extractor.parse_abstracts_from_wiki_articles()
