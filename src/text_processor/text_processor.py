@@ -13,10 +13,10 @@ class TextProcessor:
     def process_text(self, text: str):
         text = self.__tokenize(text)
         text = self.__remove_stop_words(text)
-        text = self.__perform_stemming(text)
+        # text = self.__perform_stemming(text)
         return text
 
-    def tokenize(self, text: str) -> list:
+    def __tokenize(self, text: str) -> list:
         """Tokenizer function"""
         """:return List of words and terms in the text """
         # 'I am the best, today is 4:20 of 12.oct.2021' ->
@@ -24,7 +24,7 @@ class TextProcessor:
         tokens = nltk.word_tokenize(text)
         return tokens
 
-    def remove_stop_words(self, tokenized_text: list[str]) -> list[str]:
+    def __remove_stop_words(self, tokenized_text: list[str]) -> list[str]:
         """remove words like that dont have enough meaning: is, are, am, in, at"""
         # I, am, the, best, today, is, 4:20, of, 12.oct.2021 -> I, best, today, 4:20, 12.oct.2021
         stop_words = set(stopwords.words('english'))
@@ -36,6 +36,10 @@ class TextProcessor:
 
     def __perform_stemming(self, text: list[str]) -> list[str]:
         """Implement porter stemming algorithm"""
+        stemmer = nltk.stem.porter.PorterStemmer()
+        return [stemmer.stem(item) for item in text]
         # https://tartarus.org/martin/PorterStemmer/
-        pass
+
+
+
 

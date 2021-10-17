@@ -24,12 +24,12 @@ class TestComparator(unittest.TestCase):
         self.assertEqual(actual_similarity, expected_result, "Should be 0 similarity")
 
     def test_slightly_diff_texts(self):
-        text_1 = 'An apple is green'
+        text_1 = 'An apple is yellow'
         text_2 = 'An apple is not green'
-        expected_result = 0.82
+        expected_result = 0.67
         p = self.comparator
         actual_similarity = p.compare_texts(text_1, text_2)
-        self.assertAlmostEquals(actual_similarity, expected_result, "Similarity should be high enough")
+        self.assertEqual(actual_similarity, expected_result, "Similarity should be high enough")
 
     def test_slightly_sim_texts(self):
         text_1 = 'I like apples, but not oranges'
@@ -46,6 +46,22 @@ class TestComparator(unittest.TestCase):
         p = self.comparator
         actual_similarity = p.compare_texts(text_1, text_2)
         self.assertEqual(actual_similarity, expected_result, "Similarity should be very low")
+
+    def test_diff_meaning_texts(self):
+        text_1 = 'Apple is my favorite fruit!'
+        text_2 = 'I hate apples'
+        expected_result = 0
+        p = self.comparator
+        actual_similarity = p.compare_texts(text_1, text_2)
+        self.assertEqual(actual_similarity, expected_result, "Similarity should be very low")
+
+    def test_sim_meaning_texts(self):
+        text_1 = 'I like apples and berries!'
+        text_2 = 'I prefer apples rather than berries'
+        expected_result = 0.58
+        p = self.comparator
+        actual_similarity = p.compare_texts(text_1, text_2)
+        self.assertEqual(actual_similarity, expected_result, "Similarity should be high enough")
 
 
 if __name__ == '__main__':
