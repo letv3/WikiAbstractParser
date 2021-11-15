@@ -14,7 +14,6 @@ from org.apache.lucene.util import Version
 
 class Retriever:
     def __init__(self, index_path):
-        lucene.initVM()
         self.INDEX_PATH = index_path
         self.analyzer = StandardAnalyzer()
         self.indir = SimpleFSDirectory(Paths.get(self.INDEX_PATH))
@@ -25,19 +24,27 @@ class Retriever:
         for hit in hits.scoreDocs:
             print(hit.toString())
             doc = self.searcher.doc(hit.doc)
-            print(doc.get("abstract").encode("utf-8"))
 
-    def perform_query(self, text, max=1000, display=True):
+            print(f"title: {doc.get('title')} \n"
+                  f"abstract: {doc.get('abstract')}")
+            print("-------------------------")
+
+    def perform_query(self, text, max=5, display=True):
         query = QueryParser("abstract", self.analyzer).parse(text)
         hits = self.searcher.search(query, max)
         if display:
             self.__display_results(hits, query)
-        else:
-            return hits
+        first_hit = self.searcher.doc(hits.scoreDocs[0].doc)
+        first_doc_tuple = {'title': first_hit.get('title'),
+                           'abstract': first_hit.get('abstract')
+                           }
+        return first_doc_tuple
 
 
 if __name__ == "__main__":
+    lucene.initVM()
     DATA_PATH = '../../data'
     INDEX_PATH = DATA_PATH + '/index'
     retriever = Retriever(INDEX_PATH)
-    retriever.perform_query('animation')
+    doc = retriever.perform_query('greates of Greek warriors', display=True)
+    # print(doc['title'])
