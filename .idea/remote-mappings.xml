@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@docker://letv3/pylucene_w_sklearn:custom/python">
+          <settings>
+            <list>
+              <mapping local-root="D:/Study/STU FIIT/ZS 21-22/Information Retrival/wikidata" remote-root="/opt/project/data/wikidata" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

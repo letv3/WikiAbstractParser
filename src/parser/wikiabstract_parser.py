@@ -1,20 +1,69 @@
-# TRYOUT script
-print(len("""Aristotle''' ({{IPAc-en|ær|ɪ|ˈ|s|t|ɒ|t|əl}};{{sfn|Collins English Dictionary}} {{lang-grc-gre|Ἀριστοτέλης}} ''Aristotélēs'', {{IPA-grc|aristotélɛːs|pron}}; 384–322&amp;nbsp;BC) was a Greek [[philosopher]] and [[polymath]] during the [[Classical Greece|Classical period]] in [[Ancient Greece]]. Taught by [[Plato]], he was the founder of the [[Lyceum (Classical)|Lyceum]], the [[Peripatetic school]] of philosophy, and the [[Aristotelianism|Aristotelian]] tradition. His writings cover many subjects including [[Physics (Aristotle)|physics]], [[biology]], [[zoology]], [[metaphysics]], [[logic]], [[ethics]], [[aesthetics]], [[Poetics (Aristotle)|poetry]], [[theatre]], [[music]], [[rhetoric]], [[psychology]], [[linguistics]], [[economics]], [[politics]], [[meteorology]], [[History of geology|geology]] and government. Aristotle provided a complex synthesis of the various philosophies existing prior to him. It was above all from his teachings that [[Western civilization|the West]] inherited its intellectual [[lexicon]], as well as problems and methods of inquiry. As a result, his philosophy has exerted a unique influence on almost every form of knowledge in the West and it continues to be a subject of contemporary philosophical discussion.Little is known about his life. Aristotle was born in the city of [[Stagira (ancient city)|Stagira]] in [[Northern Greece]]. His father, [[Nicomachus (father of Aristotle)|Nicomachus]], died when Aristotle was a child, and he was brought up by a guardian. At seventeen or eighteen years of age he joined [[Plato's Academy]] in [[Athens]] and remained there until the age of thirty-seven (c. 347 BC).{{sfn|Humphreys|2009}} Shortly after Plato died, Aristotle left Athens and, at the request of [[Philip II of Macedon]], tutored [[Alexander the Great]] beginning in 343 BC.{{sfn|Russell| 1972}} He established a library in the [[Lyceum (Classical)|Lyceum]] which helped him to produce many of his hundreds of books on [[papyrus]] [[scrolls]]. Though Aristotle wrote many elegant treatises and dialogues for publication, only around [[Corpus Aristotelicum|a third of his original output has survived]], none of it intended for publication.{{sfn|Barnes|1995|p=9}}
-Aristotle's views profoundly shaped [[medieval philosophy|medieval scholarship]]. The influence of [[Aristotelian physics|physical science]] extended from [[Late Antiquity]] and the [[Early Middle Ages]] into the [[Renaissance]], and were not replaced systematically until [[Age of Enlightenment|the Enlightenment]] and theories such as [[classical mechanics]] were developed. Some of Aristotle's zoological observations found in [[Aristotle's biology|his biology]], such as on the [[Hectocotylus|hectocotyl (reproductive) arm]] of the [[octopus]], were disbelieved until the 19th century. He also influenced [[Judeo-Islamic philosophies (800–1400)]] during the [[Middle Ages]], as well as [[Christian theology]], especially the [[Neoplatonism]] of the [[Early Church]] and the [[Scholasticism|scholastic]] tradition of the [[Catholic Church]]. Aristotle was revered among medieval Muslim scholars as &quot;The First Teacher&quot;, and among medieval Christians like [[Thomas Aquinas]] as simply &quot;The Philosopher&quot;, while the poet [[Dante Alighieri|Dante]] called him “the master of those who know&quot;. His works contain the earliest known formal study of logic, and were studied by medieval scholars such as [[Peter Abelard]] and [[John Buridan]].
-Aristotle's influence on logic continued well into the 19th century. In addition, his [[Aristotelian ethics|ethics]], though always influential, gained renewed interest with the modern advent of [[virtue ethics]].
-Aristotle has been called &quot;the father of logic&quot;, &quot;the father of biology&quot;, &quot;the father of political science&quot;, &quot;the father of zoology&quot;, &quot;the father of embryology&quot;, &quot;the father of natural law&quot;, &quot;the father of scientific method&quot;, &quot;the father of rhetoric&quot;, &quot;the father of psychology&quot;, &quot;the father of realism&quot;, &quot;the father of criticism&quot;, &quot;the father of individualism&quot;, &quot;the father of teleology&quot;, and &quot;the father of meteorology&quot;.&lt;ref name=&quot;LitList&quot;&gt;
-* &quot;the father of logic&quot;: Wentzel Van Huyssteen, Encyclopedia of Science and Religion: A-I, p 27
-* &quot;the father of biology&quot;: S. C. Datt, S. B. Srivastava, Science and society, p 93.{{sfn|Leroi|2015|page=352}} 
-* &quot;the father of political science&quot;: N. Jayapalan, Aristotle, p 12., Jonathan Wolff, Lectures on the History of Moral and Political Philosophy, p 48.
-* the &quot;father of zoology&quot;: Josef Rudolf Winkler, A Book of Beetles, p 12
-* &quot;the father of embryology&quot;: D.R. Khanna, Text Book Of Embryology, p 2
-* &quot;the father of natural law&quot;: {{cite journal|last=Shellens|first=Max Solomon|title=Aristotle on Natural Law|journal=Natural Law Forum|volume=4|issue=1|year=1959|pages=72–100|doi=10.1093/ajj/4.1.72 |url=https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1039&amp;context=nd_naturallaw_forum&amp;source=post_page}}
-* &quot;the father of scientific method&quot;: {{cite news |url=https://explorable.com/history-of-the-scientific-method/|title=History of the Scientific Method|newspaper=Explorable|first1=Martyn|last1=Shuttleworth.}}, Riccardo Pozzo (2004) [https://books.google.com/?id=vayp8jxcPr0C&amp;pg=PA41 ''The impact of Aristotelianism on modern philosophy'']. CUA Press. p. 41. {{ISBN|0-8132-1347-9}} 
-* &quot;the father of rhetoric&quot;: {{cite news |url=https://www.history.com/topics/ancient-history/aristotle|title=Aristotle|work=[[History (American TV network)|History]]}}, Bizzell, P. and Bruce Herzberg. (2000). ''The Rhetorical Tradition: Readings from Classical Times to the Present.'' NY: Bedford/St. Martin's. p. 3.
-* &quot;the father of psychology&quot;: Margot Esther Borden, Psychology in the Light of the East, p 4
-* &quot;the father of realism&quot;:Russell L. Hamm, Philosophy and Education: Alternatives in Theory and Practice, p 58
-* &quot;the father of criticism&quot;:Nagendra Prasad, Personal Bias in Literary Criticism: Dr.Johnson, Matthew Arnold, T.S. Eliot, p 70. [[Henry Home, Lord Kames|Lord Henry Home Kames]], Elements of Criticism, p 237.
-* &quot;the father of meteorology&quot;:{{cite news |url=https://www.metoffice.gov.uk/about-us/what/what-is-meteorology|title=What is meteorology?|newspaper=Meteorological Office}}{{cite web|url=http://yale.edu/ynhti/curriculum/units/1994/5/94.05.01.x.html|title=94.05.01: Meteorology|access-date=16 June 2015|archive-url= https://web.archive.org/web/20160721205842/http://www.yale.edu/ynhti/curriculum/units/1994/5/94.05.01.x.html |archive-date=21 July 2016|url-status=dead}}
-* &quot;the father of individualism&quot;:Allan Gotthelf, Gregory Salmieri, A Companion to Ayn Rand, p 325.
-* &quot;the father of teleology&quot;:Malcolm Owen Slavin, Daniel H. Kriegman, The Adaptive Design of the Human Psyche: Psychoanalysis, Evolutionary Biology, and the Therapeutic Process, p 292.&lt;/ref&gt;
-"""))
+import time, os, glob,re
+
+import pyspark.sql.functions as sparkfunctions
+from pyspark.sql import SparkSession
+from pyspark.sql.types import *
+from pyspark import SparkContext
+
+
+def check_object(obj):
+    if isinstance(obj, str):
+        if obj != '':
+            return obj
+    return ''
+
+
+def parse_wiki_articles_file(spark, path):
+    abstract_pattern = r"'''([^\=]*)(?=(={1,6})([^\n]+?)(={1,6})[ \t]*(\n|\Z))"
+    customSchema = StructType([
+        StructField('title', StringType()),
+        StructField('revision', StructType([
+            StructField('text', StructType([
+                StructField('_VALUE', StringType())
+            ]))
+        ]))
+    ])
+    df = spark.read.format('com.databricks.spark.xml')\
+        .options(rowTag='page').load(path, schema=customSchema)
+    all_abstracts_rdd = df.rdd.map(
+        lambda loop: (
+            loop['title'].replace('Wikipedia:',''),
+            abstract_text.group(0).replace('\n', ' ')
+            if (abstract_text := re.search(pattern=abstract_pattern,
+                                           string=check_object(loop['revision']['text']['_VALUE']),
+                                           flags=re.MULTILINE | re.DOTALL)
+                ) is not None else None
+        ))
+    all_abstracts = all_abstracts_rdd.toDF(['title', 'abstract'])
+    valid_abstracts = all_abstracts.dropna()
+    return valid_abstracts
+
+
+if __name__ == "__main__":
+    spark = SparkSession.builder.getOrCreate()
+    sc = spark.sparkContext
+
+    # xml file that work good
+    # link: https://dumps.wikimedia.org/enwiki/20211101/enwiki-20211101-pages-articles1.xml-p1p41242.bz2
+
+    path_to_good_xml = "enwiki-20211101-pages-articles1.xml-p1p41242"
+
+    # xml that throughs error
+    # link: https://dumps.wikimedia.org/enwiki/20211101/enwiki-20211101-pages-articles10.xml-p4045403p5399366.bz2
+    path_to_erroring_xml = "enwiki-20211101-pages-articles10.xml-p4045403p5399366"
+
+    path_to_parse = path_to_erroring_xml
+
+    # output folder
+    parsed_abstracts_dir = 'parsed_wiki_abstract'
+
+    if os.path.exists(path_to_parse):
+            start_time_single = time.time()
+            parsed_wikipedia_abstracts_0 = parse_wiki_articles_file(spark, path=path_to_parse)
+            # res = parsed_wikipedia_abstracts_0.union(parsed_wikipedia_abstracts_1)
+            print(f"parisng time: {time.time() - start_time_single}")
+            parsed_wikipedia_abstracts_0.printSchema()
+
+            parsed_wikipedia_abstracts_0.write.csv(path=parsed_abstracts_dir, sep='\t', mode='overwrite')
+
+            print(f"document{path_to_parse} elapsed: {time.time() - start_time_single}")
