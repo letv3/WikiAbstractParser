@@ -10,6 +10,7 @@ from org.apache.lucene.queryparser.classic import QueryParser
 from org.apache.lucene.store import SimpleFSDirectory
 from org.apache.lucene.util import Version
 
+from src.comparator.comparator import TextSimilarityComparator
 
 
 class Retriever:
@@ -26,19 +27,32 @@ class Retriever:
             doc = self.searcher.doc(hit.doc)
 
             print(f"title: {doc.get('title')} \n"
-                  f"abstract: {doc.get('abstract')}")
+                  f"abstract: {doc.get('abstract')}\n"
+                  f"type: {doc.get('type')}")
             print("-------------------------")
 
-    def perform_query(self, text, max=5, display=True):
-        query = QueryParser("abstract", self.analyzer).parse(text)
+    def perform_query(self, text, max=5, type='parsed_abstract', display=True):
+        if type != 'parsed_abstract':
+            command = f'title:"{text}" AND type:{type}'
+        else:
+            command = f'abstract:"{text}" AND type:{type}'
+
+        query = QueryParser("abstract", self.analyzer).parse(command)
+        # query = QueryParser("abstract", self.analyzer).parse(f'abstract:"{text}" AND type:{type}')
         hits = self.searcher.search(query, max)
         if display:
             self.__display_results(hits, query)
-        first_hit = self.searcher.doc(hits.scoreDocs[0].doc)
-        first_doc_tuple = {'title': first_hit.get('title'),
-                           'abstract': first_hit.get('abstract')
-                           }
-        return first_doc_tuple
+        try:
+            first_hit = self.searcher.doc(hits.scoreDocs[0].doc)
+            first_doc = {
+                'title': first_hit.get('title'),
+                'abstract': first_hit.get('abstract'),
+                'type': first_hit.get('type')
+            }
+            return first_doc
+        except:
+            print('havent find anything')
+            return
 
 
 if __name__ == "__main__":
@@ -46,5 +60,12 @@ if __name__ == "__main__":
     DATA_PATH = '../../data'
     INDEX_PATH = DATA_PATH + '/index'
     retriever = Retriever(INDEX_PATH)
-    doc = retriever.perform_query('greates of Greek warriors', display=True)
-    # print(doc['title'])
+
+    doc = retriever.perform_query('Adobe', display=True)
+    dbpedia_doc = retriever.perform_query(doc['title'], type='dbpedia', display=True)
+    default_doc = retriever.perform_query(doc['title'], type='default', display=True)
+
+    comparator = TextSimilarityComparator()
+
+    print(f"similarity parsed-dbpedia: {comparator.compare_texts(doc,dbpedia_doc)}\n"
+          f"similarity parsed-defaultWiki: {comparator.compare_texts(doc,default_doc)}")

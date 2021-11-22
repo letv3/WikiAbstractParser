@@ -9,14 +9,17 @@ from math import sqrt
 
 import nltk
 from nltk.corpus import stopwords
-nltk.download('stopwords')
 
 
 class TextSimilarityComparator:
     """Class to compare similarity of 2 different(Wiki abstracts in our case)"""
 
     def __init__(self):
-        self.stopwords = stopwords.words('english')
+        try:
+            self.stopwords = stopwords.words('english')
+        except:
+            nltk.download('stopwords')
+            self.stopwords = stopwords.words('english')
 
     def clean_string(self, text):
         text = ''.join([word for word in text if word not in string.punctuation])
@@ -27,8 +30,14 @@ class TextSimilarityComparator:
     def compare_texts(self, first_text, second_text ) -> float:
         """function to compare similarity of two texts"""
         """:return Float value from 0 to 1 which represent similarity of two strs"""
-        first_text = first_text.reshape(1, -1)
-        second_text = second_text.reshape(1, -1)
+        if first_text == None or first_text == '' \
+            or second_text == None or second_text == '':
+            return 0.0
+        cleaned = list(map(self.clean_string, [first_text, second_text]))
+        vectorizer = CountVectorizer().fit_transform(cleaned)
+        vectors = vectorizer.toarray()
+        first_text = vectors[0].reshape(1, -1)
+        second_text = vectors[1].reshape(1, -1)
         return cosine_similarity(first_text, second_text)
 
 
@@ -83,9 +92,5 @@ if __name__ == '__main__':
          "128 other times graphics remain stationary while stop motion camera moved create screen action brickfilm subgenre object animation involving using " \
          "lego other similar brick toys make animation sfn paul 2005 pages 357 63 sfn herman 2014 have had recent boost popularity advent video sharing sites " \
          "youtube availability cheap cameras animation software sfn haglund 2014 pixilation involves use live humans stop motion characters sfn laybourne 1998"
-    sentences = [va, vb]
-    cleaned = list(map(comparator.clean_string, sentences))
-    vectorizer = CountVectorizer().fit_transform(cleaned)
-    vectors = vectorizer.toarray()
-    csim = comparator.compare_texts(vectors[0], vectors[1])
+    csim = comparator.compare_texts(va, vb)
     print(csim)

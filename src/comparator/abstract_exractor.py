@@ -1,7 +1,7 @@
 import csv
 import time
 
-PARSED_DBPEDIA_ABSTRACTS_PATH = '../../data/document_base/dbpedia_abstracts.csv'
+PARSED_DBPEDIA_ABSTRACTS_PATH = '../../data/document_base/dbpedia/dbpedia_abstracts.csv'
 PARSED_MEDIAWIKI_ABSTRACTS_PATH = '../../data/document_base/mediawiki_abstracts.csv'
 
 class ReadyAbstractExtractor:

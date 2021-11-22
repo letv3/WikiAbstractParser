@@ -4,7 +4,7 @@ MEDIAWIKI_ARTICLES_DUMPFILE_PATH = 'data/enwiki-latest-pages-articles1.xml'
 MEDIAWIKI_ABSTRACTS_DUMPFILE_PATH = 'data/enwiki-latest-abstract.xml'
 DBPEDIA_ABSTRACTS_DUMPFILE_PATH = '/data/long-abstracts_lang=en.ttl'
 
-PARSED_DBPEDIA_ABSTRACTS_PATH = '../../data/document_base/dbpedia_abstracts.csv'
+PARSED_DBPEDIA_ABSTRACTS_PATH = '../../data/document_base/dbpedia/dbpedia_abstracts.csv'
 PARSED_MEDIAWIKI_ABSTRACTS_PATH = '../../data/document_base/mediawiki_abstracts.csv'
 PARSED_ABSTRACTS_PATH = '../../data/document_base/parsed_abstracts.csv'
 
