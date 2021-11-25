@@ -1,1 +1,4 @@
 http://dl-5.alpinelinux.org/alpine/v3.4/main
+
+docker run cmd
+docker run -it --rm  -p 8888:8888 -v ${PWD}:/home/jovyan/work jupyter/pyspark-notebook

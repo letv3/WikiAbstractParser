@@ -16,7 +16,6 @@ from java.nio.file import Paths
 
 class LuceneIndexer():
     def __init__(self, path_to_document_base, index_path):
-        lucene.initVM()
         self.INDEX_PATH = index_path
         indexDir = SimpleFSDirectory(Paths.get(self.INDEX_PATH))
         self.analyzer = StandardAnalyzer()
@@ -27,14 +26,10 @@ class LuceneIndexer():
         self.path_to_document_base = path_to_document_base
         self.retrieved_documents = 0
 
-    # todo read batch - write batch
-    # make function for index creation on 3 folders (document_base, dbpedia, default_wiki)
-    # use this fucntion
-
     def create_index(self, only_parsed=False):
         folders = {
             'parsed_abstract': "parsed_abstracts",
-            'default': "default_wiki",
+            'default': "default_abstracts",
             'dbpedia': "dbpedia"
         }
         whole_start = time.time()
@@ -94,23 +89,13 @@ class LuceneIndexer():
         # doc.add(Field('dbpedia_abstract', '', TextField.TYPE_STORED))
         return doc
 
-
-
     def commit_and_close(self):
         self.writer.commit()
         self.writer.close()
 
-    # def add_all_documents(self):
-    #     # todo save id to memory to not update 2 time index
-    #     for document in self.retrieved_documents:
-    #         doc = self.__create_one_document(document)
-    #         self.writer.addDocument(doc)
-    #     print(f"{self.writer.numRamDocs()} docs found in index")
-    #     self.writer.commit()
-    #     self.writer.close()
-
 
 if __name__ == '__main__':
+    lucene.initVM()
     DEFAULT_DIR = "../../data"
     DOCUMENT_DIR = "/document_base"
     DOCUMENT_BASE_PATH = DEFAULT_DIR + DOCUMENT_DIR
@@ -118,13 +103,4 @@ if __name__ == '__main__':
 
     if os.path.exists(DOCUMENT_BASE_PATH):
         lucene_indexer = LuceneIndexer(DOCUMENT_BASE_PATH, INDEX_PATH)
-        # retrieved_docs = lucene_indexer.create_initial_index()
-        # lucene_indexer.add_preparsed_abstracts_to_index(DEFAULT_DIR + DOCUMENT_DIR)
         lucene_indexer.create_index()
-        # print(f"all docs: {lucene_indexer.retrieved_documents}")
-        # lucene_indexer.commit_and_close()
-
-
-
-    # lucene_indexer.add_batch_documents()
-    # lucene_indexer.commit_and_close()

@@ -61,11 +61,11 @@ if __name__ == "__main__":
     INDEX_PATH = DATA_PATH + '/index'
     retriever = Retriever(INDEX_PATH)
 
-    doc = retriever.perform_query('Adobe', display=True)
-    dbpedia_doc = retriever.perform_query(doc['title'], type='dbpedia', display=True)
-    default_doc = retriever.perform_query(doc['title'], type='default', display=True)
+    doc = retriever.perform_query('Anarchism political', display=True, max=10)
+    dbpedia_doc = retriever.perform_query(doc['title'], type='dbpedia', display=True, max=1)
+    default_doc = retriever.perform_query(doc['title'], type='default', display=True, max=1)
 
     comparator = TextSimilarityComparator()
 
-    print(f"similarity parsed-dbpedia: {comparator.compare_texts(doc,dbpedia_doc)}\n"
-          f"similarity parsed-defaultWiki: {comparator.compare_texts(doc,default_doc)}")
+    print(f"similarity parsed-dbpedia: {comparator.compare_texts(doc['abstract'],dbpedia_doc['abstract'])}\n"
+          f"similarity parsed-defaultWiki: {comparator.compare_texts(doc['abstract'],default_doc['abstract'])}")
