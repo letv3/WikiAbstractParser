@@ -11,7 +11,6 @@ to launch the app, you will need to have docker installed.
    2. https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-abstract.xml.gz
    3. https://databus.dbpedia.org/dbpedia/text/long-abstracts/2021.08.01/long-abstracts_lang=en.ttl.bz2
 4. Run main.py. It will:
-   1. Parse files
    2. Create index
    3. Prompts for the phrase to search
    4. Retrieves most suitable documents

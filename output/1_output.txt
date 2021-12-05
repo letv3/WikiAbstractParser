@@ -1,0 +1,819 @@
+Hello this is wiki abstract search engine :), to exit press 'x'
+Want to launch index documents again? (It will take some time)[Y/N]
+Enter the word you want to find abstract for ('X' for exit)
+Found 698 hits document(s) that matched query 'abstract:michel abstract:majerus': 
+doc=87881 score=9.35342 shardIndex=0
+title: Rick Majerus 
+abstract: richard raymond majerus february 17 1948 december 1 2012 american basketball coach tv analyst he coached marquette university 1983 1986 ball state university 1987 1989 university utah 1989 2004 saint louis university 2007 2012 majerus most successful season came utah 1997 98 season when utes finished runners up 1998 ncaa division i men's basketball tournament majerus inducted college basketball hall fame 2019
+default_abstract: | birth_place = Sheboygan Falls, Wisconsin
+default_similarity: 0.0
+dbpedia_abstract: Richard Raymond Majerus (February 17, 1948 – December 1, 2012) was an American basketball coach and TV analyst. He coached at Marquette University (1983–1986), Ball State University (1987–1989), the University of Utah (1989–2004), and Saint Louis University (2007–2012). Majerus' most successful season came at Utah in the 1997–98 season, when the Utes finished as runners-up in the 1998 NCAA Division I Men's Basketball Tournament. Majerus was inducted into the College Basketball Hall of Fame in 2019.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=230887 score=5.838909 shardIndex=0
+title: Michel 
+abstract: michel may refer michel name given name surname french origin list people name míchel nickname nickname list people nickname mainly spanish footballers míchel footballer born 1963 spanish former footballer manager michel tv series michel tv series korean animated series german auxiliary cruiser michel german auxiliary cruiser michel michel catalog german language stamp catalog st michael's church hamburg michel mikkeli s:t michel finnish town southern savonia finland
+default_abstract: Michel may refer to:
+default_similarity: 0.4455664
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=465199 score=5.519067 shardIndex=0
+title: Marius Michel Pasha 
+abstract: blaise jean marius michel comte de pierredon 1819 1907 also known michel pasha michel pacha french france french architect lighthouse builder
+default_abstract: Blaise-Jean-Marius Michel, Comte de Pierredon (1819-1907), also known as Michel Pasha or Michel Pacha in French, was a French architect and lighthouse builder.
+default_similarity: 0.9591663
+dbpedia_abstract: Blaise-Jean-Marius Michel, Comte de Pierredon (1819-1907), also known as Michel Pasha or Michel Pacha in French, was a French architect and lighthouse builder.
+dbpedia_similarity: 0.9591663
+
+
+-------------------------
+doc=497788 score=5.4014564 shardIndex=0
+title: Michel Mathieu 
+abstract: michel mathieu may refer michel mathieu french politician 1944 2010 high commissioner republic french polynesia michel mathieu canadian politician 1838 1916 lawyer judge member canadian house commons
+default_abstract: Michel Mathieu may refer to:
+default_similarity: 0.5962848
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=453129 score=5.270425 shardIndex=0
+title: Saint-Michel–Notre-Dame 
+abstract: saint michel notre dame train station station rer b rer c paris located 5th arrondissement paris 5th arrondissement named after nearby place saint michel saint michel area notre dame de paris notre dame cathedral
+default_abstract: | line=
+default_similarity: 0.0
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1219+ hits document(s) that matched query 'abstract:michel abstract:majerus abstract:artist': 
+doc=87881 score=9.35342 shardIndex=0
+title: Rick Majerus 
+abstract: richard raymond majerus february 17 1948 december 1 2012 american basketball coach tv analyst he coached marquette university 1983 1986 ball state university 1987 1989 university utah 1989 2004 saint louis university 2007 2012 majerus most successful season came utah 1997 98 season when utes finished runners up 1998 ncaa division i men's basketball tournament majerus inducted college basketball hall fame 2019
+default_abstract: | birth_place = Sheboygan Falls, Wisconsin
+default_similarity: 0.0
+dbpedia_abstract: Richard Raymond Majerus (February 17, 1948 – December 1, 2012) was an American basketball coach and TV analyst. He coached at Marquette University (1983–1986), Ball State University (1987–1989), the University of Utah (1989–2004), and Saint Louis University (2007–2012). Majerus' most successful season came at Utah in the 1997–98 season, when the Utes finished as runners-up in the 1998 NCAA Division I Men's Basketball Tournament. Majerus was inducted into the College Basketball Hall of Fame in 2019.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=41683 score=7.518157 shardIndex=0
+title: Jean-Michel Atlan 
+abstract: jean michel atlan january 23 1913 february 12 1960 french artist
+default_abstract: Jean-Michel Atlan (January 23, 1913 – February 12, 1960) was a French artist.
+default_similarity: 1.0
+dbpedia_abstract: Jean-Michel Atlan (January 23, 1913 – February 12, 1960) was a French artist.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=84609 score=7.2572937 shardIndex=0
+title: Jean-Michel Folon 
+abstract: jean michel folon 1 march 1934 20 october 2005 belgium belgian artist illustrator painter sculptor
+default_abstract: | death_place = Monaco
+default_similarity: 0.0
+dbpedia_abstract: Jean-Michel Folon (1 March 1934 – 20 October 2005) was a Belgian artist, illustrator, painter, and sculptor.
+dbpedia_similarity: 0.9166667
+
+
+-------------------------
+doc=306033 score=7.169812 shardIndex=0
+title: Prix Saint-Michel 
+abstract: grand prix saint michel jacques tardi best realistic artwork claude auclair best comical artwork marc wasterlain best foreign artist bonvi michel blanc dumont best realistic writing hugo pratt best comical writing raoul cauvin revelation serge ernst
+default_abstract: The Prix Saint-Michel is a series of comic awards presented by the city of Brussels, with a focus on Franco-Belgian comics. They were first awarded in 1971, and although often said to be the oldest European comics awards, they are actually the second oldest comics award in Europe still presented, behind the Adamson Awards.
+default_similarity: 0.036661778
+dbpedia_abstract: The Prix Saint-Michel is a series of comic awards presented by the city of Brussels, with a focus on Franco-Belgian comics. They were first awarded in 1971, and although often said to be the oldest European comics awards, they are actually the second oldest comics award in Europe still presented, behind the Adamson Awards. Their history is quite erratic though, with a long pause between 1986 and 2002. The jury of the Prix Saint-Michel is formed by professionals from the comics industry, including publishers, editors, and creators.
+dbpedia_similarity: 0.057892032
+
+
+-------------------------
+doc=72103 score=6.7863493 shardIndex=0
+title: Dominique Michel 
+abstract: dominique michel order canada oc national order quebec cq born september 24 1932 sorel tracy quebec aimée sylvestre quebec comedian actress singer artist
+default_abstract: Dominique Michel, OC, CQ (born September 24, 1932 in Sorel-Tracy, Quebec as Aimée Sylvestre) is a Quebec comedian, actress, singer and artist.
+default_similarity: 0.79609793
+dbpedia_abstract: Dominique Michel, OC, CQ (born September 24, 1932 in Sorel-Tracy, Quebec as Aimée Sylvestre) is a Quebec comedian, actress, singer and artist.
+dbpedia_similarity: 0.79609793
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1140+ hits document(s) that matched query 'abstract:isle abstract:of abstract:wight abstract:railway': 
+doc=306187 score=14.37131 shardIndex=0
+title: Sandown railway station 
+abstract: sandown railway station railway station serving sandown isle wight england located island line isle wight island line from ryde shanklin
+default_abstract: | manager             = Island Line
+default_similarity: 0.32732683
+dbpedia_abstract: Sandown railway station is a railway station serving Sandown on the Isle of Wight, England. It is located on the Island Line from Ryde to Shanklin.
+dbpedia_similarity: 0.94850403
+
+
+-------------------------
+doc=365228 score=13.426625 shardIndex=0
+title: Isle of Wight Central Railway 
+abstract: isle wight central railway iowcr railway company isle wight united kingdom formed 1887 merging three earlier railways cowes newport railway opened 1862 ryde newport railway opened 1875 isle wight newport junction railway opened stages 1875 1879 its network ran from near ryde cowes from sandown newport also worked freshwater yarmouth newport railway until 1913 year purchased newport godshill ventnor railway iowcr always short money operated antiquated equipment heavily seasonal traffic later competition from buses cars limited profitable income 1923 absorbed new southern railway great britain southern railway new owner put financial resources worthwhile modernisation 1960s financial situation became difficult whole former iowcr network closed 1966 isle wight steam railway now operates part line
+default_abstract: The Isle of Wight Central Railway (IoWCR) was a railway company on the Isle of Wight, United Kingdom. It was formed in 1887 by the merging of three earlier railways, the Cowes and Newport Railway (opened 1862), the Ryde and Newport Railway (opened 1875) and the Isle of Wight (Newport Junction) Railway, (opened in stages 1875 and 1879).
+default_similarity: 0.840598
+dbpedia_abstract: The Isle of Wight Central Railway (IoWCR) was a railway company on the Isle of Wight, United Kingdom. It was formed in 1887 by the merging of three earlier railways, the Cowes and Newport Railway (opened 1862), the Ryde and Newport Railway (opened 1875) and the Isle of Wight (Newport Junction) Railway, (opened in stages 1875 and 1879). Its network ran from near Ryde to Cowes and from Sandown to Newport. It also worked the Freshwater, Yarmouth and Newport Railway until 1913 and in that year it purchased the Newport, Godshill and Ventnor Railway. The IoWCR was always short of money, and operated with antiquated equipment. The heavily seasonal traffic and, later, omnibus and road motor competition limited profitable income. In 1923 it was absorbed by the new Southern Railway, and the new owner put financial resources into worthwhile modernisation, but by the 1960s the financial situation became difficult and the whole of the former IoWCR network was closed in 1966. The Isle of Wight Steam Railway now operates on part of the line.
+dbpedia_similarity: 0.98555577
+
+
+-------------------------
+doc=370471 score=12.891743 shardIndex=0
+title: Live at the Isle of Wight 1970 
+abstract: live isle wight 1970 live isle wight festival 1970 live isle wight may refer live isle wight 1970 leonard cohen album live isle wight 1970 leonard cohen album 2009 live isle wight festival 1970 doors album live isle wight festival 1970 doors album 2018 live isle wight festival 1970 emerson lake palmer album live isle wight festival 1970 emerson lake palmer album 1997 live isle wight 70 1991 album jimi hendrix blue wild angel live isle wight 2002 album jimi hendrix nothing easy live isle wight 1970 2004 album jethro tull live isle wight festival 1970 moody blues album live isle wight festival 1970 moody blues album 2008 live isle wight taste album live isle wight taste album 1971 live isle wight festival 1970 who album live isle wight festival 1970 who album 1996 live isle wight festival 1970 film live isle wight festival 1970 film 1998
+default_abstract: Live at the Isle of Wight 1970, Live at the Isle of Wight Festival 1970, or Live at the Isle of Wight may refer to:
+default_similarity: 0.89506793
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=410364 score=12.39431 shardIndex=0
+title: Lymington Pier railway station 
+abstract: lymington pier railway station serves harbour area lymington hampshire england convert 98 mi 15 chain km measured from stn london waterloo terminus lymington branch line from rws brockenhurst provides connection ferry services yarmouth isle wight yarmouth isle wight has one platform
+default_abstract: | manager             = South Western Railway
+default_similarity: 0.08111071
+dbpedia_abstract: Lymington Pier railway station serves the harbour area of Lymington in Hampshire, England. It is 98 miles 15 chains (158.0 km) measured from London Waterloo and is the terminus of the Lymington Branch Line from Brockenhurst and provides a connection with ferry services to Yarmouth on the Isle of Wight. It has one platform. The station is served by South Western Railway, which operates two trains per hour all week. Until 22 May 2010, the Lymington Branch Line was operated as a \
+dbpedia_similarity: 0.7508335
+
+
+-------------------------
+doc=247808 score=12.2568865 shardIndex=0
+title: Isle of Wight College 
+abstract: isle wight college general college further education further higher education newport isle wight newport isle wight college runs university centre isle wight qualifications accredited university portsmouth university portsmouth
+default_abstract: thumb|right|200px|The Isle of Wight College
+default_similarity: 0.70710677
+dbpedia_abstract: The Isle of Wight training college is a general further education college (GFE).
+dbpedia_similarity: 0.6708204
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1142+ hits document(s) that matched query 'abstract:university abstract:of abstract:otago': 
+doc=363957 score=9.834657 shardIndex=0
+title: University of Otago, Wellington 
+abstract: university otago wellington one seven component schools make up university otago division health sciences all university otago medical students who gain entry after competitive health sciences first year programme who gain graduate entry spend second third years studying dunedin programme called early learning medicine elm which jointly taught university otago dunedin school medicine otago medical school university otago school biomedical sciences school biomedical sciences fourth fifth sixth years medical students study either university otago dunedin school medicine otago medical school university otago christchurch university otago wellington
+default_abstract: The University of Otago, Wellington is one of seven component schools that make up the University of Otago Division of Health Sciences. All University of Otago medical students who gain entry after a competitive Health Sciences First Year programme, or who gain graduate entry, spend their second and third years studying in Dunedin in a programme called Early Learning in Medicine (ELM), which is jointly taught by the Otago Medical School and the School of Biomedical Sciences.
+default_similarity: 0.9021833
+dbpedia_abstract: The University of Otago, Wellington is one of four component schools that make up the University of Otago Medical School. All University of Otago medical students who gain entry after a competitive Health Sciences First Year programme, or who gain graduate entry, spend their second and third years studying in Dunedin in a programme called Early Learning in Medicine (ELM), which is jointly taught by the Dunedin School of Medicine and the School of Biomedical Sciences. In their fourth, fifth, and sixth years, medical students study at either Dunedin School of Medicine; the University of Otago, Christchurch; or the University of Otago, Wellington.
+dbpedia_similarity: 0.9442863
+
+
+-------------------------
+doc=80773 score=9.581445 shardIndex=0
+title: University of Otago Dunedin School of Medicine 
+abstract: dunedin school medicine former name otago medical school’s dunedin campus all university otago medical students who gain entry after competitive health sciences first year program who gain graduate entry spend second third years elm early learning medicine studying under otago medical school dunedin fourth fifth sixth years alm advanced learning medicine students can either study otago medical school dunedin university otago christchurch school medicine university otago christchurch university otago wellington school medicine university otago wellington
+default_abstract: The Dunedin School of Medicine is the former name of Otago Medical School’s Dunedin campus. All University of Otago medical students who gain entry after the competitive Health Sciences First Year program, or who gain graduate entry, spend their second and third years (ELM; Early Learning in Medicine) studying under Otago Medical School in Dunedin.
+default_similarity: 0.8893197
+dbpedia_abstract: The Dunedin School of Medicine is one of three medical schools that, along with the School of Biomedical Sciences, make up the University of Otago Medical School. All University of Otago medical students who gain entry after the competitive Health Sciences First Year program, or who gain graduate entry, spend their second and third years (ELM; Early Learning in Medicine) studying under Otago Medical School in Dunedin. In their fourth, fifth, and sixth years (ALM; Advanced Learning in Medicine), students can either study at the Dunedin School of Medicine, the University of Otago, Christchurch, or the University of Otago, Wellington.
+dbpedia_similarity: 0.927921
+
+
+-------------------------
+doc=178997 score=9.176896 shardIndex=0
+title: University of Otago, Christchurch 
+abstract: university otago christchurch one seven component schools make up university otago division health sciences university otago christchurch based primarily christchurch hospital christchurch central city works partnership canterbury district health board has over 1,000 medical postgraduate students campus ref https www.otago.ac.nz christchurch about ref all university otago medical students who gain entry after competitive health sciences first year program who gain entry via alternative admissions pathways spend second third years studying university otago dunedin school medicine otago medical school dunedin fourth fifth sixth years medical students can either continue study dunedin christchurch university otago wellington wellington campuses
+default_abstract: The University of Otago, Christchurch is one of seven component schools that make up the University of Otago Division of Health Sciences. The University of Otago, Christchurch is based primarily at Christchurch Hospital, in Christchurch Central City, and works in partnership with the Canterbury District Health Board.
+default_similarity: 0.76277006
+dbpedia_abstract: The University of Otago, Christchurch is one of four component schools that make up the University of Otago Medical School. The University of Otago, Christchurch is based primarily at Christchurch Hospital, in Christchurch Central City, and works in partnership with the Canterbury District Health Board. It has over 1,000 medical and postgraduate students on campus. All University of Otago medical students who gain entry after the competitive Health Sciences First Year program, or who gain entry via alternative admissions pathways, spend their second and third years studying at the Dunedin School of Medicine. In their fourth, fifth, and sixth years, medical students can either continue to study in Dunedin, or at the Christchurch or Wellington medical schools.
+dbpedia_similarity: 0.9424355
+
+
+-------------------------
+doc=29359 score=8.13834 shardIndex=0
+title: University of Auckland Faculty of Medical and Health Sciences 
+abstract: university auckland s faculty medical health sciences formerly known university auckland school medicine established 1968 its present site grafton new zealand grafton auckland prior university otago had taught some students from final years its medical course auckland through branch faculty university otago dunedin school medicine dunedin school medicine
+default_abstract: The University of Auckland's Faculty of Medical and Health Sciences (formerly known as The University of Auckland School of Medicine) was established in 1968 at its present site in Grafton, Auckland. Prior to this, the University of Otago had taught some students from the final years of its medical course in Auckland through a branch faculty of the Dunedin School of Medicine.
+default_similarity: 0.9618003
+dbpedia_abstract: The University of Auckland's Faculty of Medical and Health Sciences (formerly known as The University of Auckland School of Medicine) was established in 1968 at its present site in Grafton, Auckland. Prior to this, the University of Otago had taught some students from the final years of its medical course in Auckland through a branch faculty of the Dunedin School of Medicine.
+dbpedia_similarity: 0.9618003
+
+
+-------------------------
+doc=72008 score=7.7994018 shardIndex=0
+title: Critic Te Arohi (magazine) 
+abstract: critic te arohi official magazine otago university students association ousa university otago freely available around both university's campus selected sites dunedin city weekly during term time critic new zealand s longest running student newspaper having been established 1925 weekly circulation 5,000 copies estimated readership approximately 20,000
+default_abstract: Critic Te Arohi is the official magazine of the Otago University Students' Association (OUSA) of the University of Otago. It is freely available around both the university's campus and selected sites in Dunedin city weekly during term time.
+default_similarity: 0.8183171
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 40 hits document(s) that matched query 'abstract:haswell abstract:microarchitecture': 
+doc=424836 score=11.859724 shardIndex=0
+title: Intel Core (microarchitecture) 
+abstract: intel core microarchitecture formerly named next generation micro architecture multi core central processing unit processor microarchitecture unveiled intel q1 2006 based yonah microprocessor yonah processor design can considered iteration p6 microarchitecture p6 microarchitecture introduced 1995 pentium pro high power consumption heat intensity resulting inability effectively increase clock rate other shortcomings inefficient pipeline computing pipeline were primary reasons why intel abandoned netburst microarchitecture netburst microarchitecture switched different architectural design delivering high efficiency through small pipeline rather than high clock rates core microarchitecture initially did reach clock rates netburst microarchitecture even after moving 45 nanometer 45 nbsp nm lithography however after many generations successor microarchitectures which used core basis nehalem microarchitecture nehalem sandy bridge more intel managed eventually surpass clock rates netburst devil's canyon improved version haswell microarchitecture haswell microarchitecture reaching base frequency 4 ghz maximum tested frequency 4.4 ghz using 22 nbsp nm lithography first processors used architecture were code named merom microprocessor merom conroe microprocessor conroe woodcrest microprocessor woodcrest merom mobile computing conroe desktop systems woodcrest servers workstations while architecturally identical three processor lines differ socket used bus speed power consumption initial mainstream core based processors were branded pentium dual core pentium low end branded celeron server workstation core based processors were branded xeon while intel's first 64 bit desktop mobile core based processors were branded intel core 64 bit core microarchitecture based core 2
+default_abstract: | model = P6 family (Celeron, Pentium, Pentium Dual-Core, Core 2 range, Xeon)
+default_similarity: 0.20650855
+dbpedia_abstract: The Intel Core microarchitecture (previously known as the Next-Generation Micro-Architecture) is a multi-core processor microarchitecture unveiled by Intel in Q1 2006. It is based on the Yonah processor design and can be considered an iteration of the P6 microarchitecture introduced in 1995 with Pentium Pro. High power consumption and heat intensity, the resulting inability to effectively increase clock speed, and other shortcomings such as an inefficient pipeline were the primary reasons why Intel abandoned the NetBurst microarchitecture and switched to a completely different architectural design, delivering high efficiency through a small pipeline rather than high clock speeds. The Core microarchitecture initially did not reach the clock speeds of the NetBurst microarchitecture, even after moving to 45 nm lithography. However after many generations of successor microarchitectures which used Core as their basis (such as Nehalem, Sandy Bridge and more), Intel managed to eventually surpass the clock speeds of Netburst with the Devil's Canyon (Improved version of Haswell) microarchitecture reaching a base frequency of 4 GHz and a maximum tested frequency of 4.4 GHz using 22 nm lithography. The first processors that used this architecture were code-named 'Merom', 'Conroe', and 'Woodcrest'; Merom is for mobile computing, Conroe is for desktop systems, and Woodcrest is for servers and workstations. While architecturally identical, the three processor lines differ in the socket used, bus speed, and power consumption. The initial mainstream Core-based processors were branded Pentium Dual-Core or Pentium and low end branded Celeron; server and workstation Core-based processors were branded Xeon, while Intel's first 64-bit desktop and mobile Core-based processors were branded Core 2.
+dbpedia_similarity: 0.9342378
+
+
+-------------------------
+doc=367564 score=8.868501 shardIndex=0
+title: High Haswell 
+abstract: high haswell village county durham england situated close haswell county durham haswell few miles east durham england durham
+default_abstract: High Haswell is a village in County Durham, in England. It is situated close to Haswell, a few miles to the east of Durham.
+default_similarity: 0.92742604
+dbpedia_abstract: High Haswell is a village in County Durham, in England. It is situated close to Haswell, a few miles to the east of Durham.
+dbpedia_similarity: 0.92742604
+
+
+-------------------------
+doc=69229 score=8.494512 shardIndex=0
+title: Baxterwood Priory 
+abstract: baxterwood priory benedictines benedictine monastery originally founded haswell county durham haswell county durham england later baxterwood monastic farm becoming private residence haswell grange later demolished elemore grange since 18th century
+default_abstract: Baxterwood Priory was a Benedictine monastery originally founded at Haswell, County Durham, England, and later at Baxterwood, with the monastic farm becoming the private residence of Haswell Grange (later demolished) and Elemore Grange since the 18th Century.
+default_similarity: 0.9459053
+dbpedia_abstract: Baxterwood Priory is a monastery that was founded at Haswell, County Durham, England by Henry Pudsey, a son of Bishop Pudsey, in the latter part of the 12th century. Two vills, Wingate and Haswell, were conferred, probably on the canons of Gisburn. A better situation was found at , possibly in 1196. It was known as the \
+dbpedia_similarity: 0.38388595
+
+
+-------------------------
+doc=396747 score=7.6531496 shardIndex=0
+title: Haswell 
+abstract: haswell may refer toc right
+default_abstract: Haswell may refer to:
+default_similarity: 0.7745967
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=490840 score=7.301648 shardIndex=0
+title: STLB 
+abstract: stlb stlb may refer second level shared translation lookaside buffer stlb introduced intel nehalem microarchitecture nehalem microarchitecture st louis blues ice hockey team st louis missouri us fails wp:dabacro
+default_abstract: STLB or sTLB may refer to:
+default_similarity: 0.5443311
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1359+ hits document(s) that matched query 'abstract:lake abstract:stevens abstract:washington': 
+doc=107455 score=11.36491 shardIndex=0
+title: Lake Stevens, Washington 
+abstract: lake stevens city snohomish county washington snohomish county washington state washington united states named lake surrounds located convert 6 mi km east everett washington everett borders cities marysville washington marysville northwest snohomish washington snohomish south city's population 28,069 2010 united states census 2010 census has since grown estimated 33,911 lake named 1859 territorial governor isaac stevens originally home skykomish people skykomish pilchuck river basin first modern settlement lake stevens founded northeastern corner lake 1889 later sold rucker brothers who opened sawmill 1907 spurred early growth area closed 1925 after second two major fires lake stevens area became resort town resort community before developing commuter town 1960s 1970s lake stevens municipal incorporation incorporated city 1960 following exodus businesses from downtown area new shopping center city has since grown through annexation s encompass most lake including original shopping center quadrupled population from 2000 2010 revitalized downtown area planned alongside new civic buildings 2020s
+default_abstract: |area_magnitude           =
+default_similarity: 0.0
+dbpedia_abstract: Lake Stevens is a city in Snohomish County, Washington, United States, and is named for the lake that it surrounds. It is located 6 miles (9.7 km) east of Everett and borders the cities of Marysville to the northwest and Snohomish to the south. The city's population was 28,069 at the 2010 census, but has since grown to an estimated 33,911. The lake was named in 1859 for territorial governor Isaac Stevens and was originally home to the  in the Pilchuck River basin. The first modern settlement on Lake Stevens was founded at the northeastern corner of the lake in 1889. It was later sold to the Rucker Brothers, who opened a sawmill in 1907 that spurred early growth in the area, but closed in 1925 after the second of two major fires. The Lake Stevens area then became a resort community before developing into a commuter town in the 1960s and 1970s. Lake Stevens was incorporated as a city in 1960, following an exodus of businesses from the downtown area to a new shopping center. The city has since grown through annexations to encompass most of the lake, including the original shopping center, and quadrupled in population from 2000 to 2010. A revitalized downtown area is planned alongside new civic buildings in the 2020s.
+dbpedia_similarity: 0.9572627
+
+
+-------------------------
+doc=412412 score=9.620132 shardIndex=0
+title: Granite Falls, Washington 
+abstract: granite falls city snohomish county washington snohomish county washington united states located between pilchuck river pilchuck stillaguamish river stillaguamish rivers western foothills cascade range northeast lake stevens washington lake stevens marysville washington marysville city named waterfall north downtown stillagumish river also accessible via mountain loop highway had population 3,364 2010 united states census 2010 census site granite falls originally portage local coast salish tribes prior arrival american settlers settlement founded 1883 prospered after discovery gold silver monte cristo washington monte cristo mines located east granite falls everett monte cristo railway granite falls plat ted 1891 incorporated fourth class town november 8 1903
+default_abstract: |area_magnitude           =
+default_similarity: 0.0
+dbpedia_abstract: Granite Falls is a city in Snohomish County, Washington, United States. It is located between the Pilchuck and Stillaguamish rivers in the western foothills of the Cascade Range, northeast of Lake Stevens and Marysville. The city is named for a waterfall north of downtown on the Stillagumish River, also accessible via the Mountain Loop Highway. It had a population of 3,364 at the 2010 census. The site of Granite Falls was originally a portage for local Coast Salish tribes prior to the arrival of American settlers. The settlement was founded in 1883 and prospered after the discovery of gold and silver in the Monte Cristo mines located east of Granite Falls on the Everett and Monte Cristo Railway. Granite Falls was platted in 1891 and incorporated as a fourth-class town on November 8, 1903.
+dbpedia_similarity: 0.9551218
+
+
+-------------------------
+doc=206496 score=8.991934 shardIndex=0
+title: Stevens County 
+abstract: stevens county name several counties united states stevens county kansas stevens county minnesota stevens county washington
+default_abstract: Stevens County is the name of several counties in the United States:
+default_similarity: 0.7768986
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=487512 score=8.828775 shardIndex=0
+title: Jerramy Stevens 
+abstract: jerramy ryan stevens born november 13 1979 former american football tight end he played college football washington huskies football washington drafted seattle seahawks first round 2002 nfl draft stevens played seahawks tampa bay buccaneers washington stevens among team's top receivers 1999 2000 seasons won 2001 rose bowl washington following 2000 washington huskies football team 11 1 season 2000 2005 stevens became regular starter tight end seattle seahawks played super bowl xl
+default_abstract: |birth_place=Boise, Idaho
+default_similarity: 0.0
+dbpedia_abstract: Jerramy Ryan Stevens (born November 13, 1979) is a former American football tight end. He played college football at Washington and was drafted by the Seattle Seahawks in the first round of the 2002 NFL Draft. Stevens played for the Seahawks (2002–06) and for the Tampa Bay Buccaneers (2007–10). With Washington, Stevens was among the team's top receivers in the 1999 and 2000 seasons and won the 2001 Rose Bowl with Washington following an 11–1 season in 2000. In 2005, Stevens became a regular starter at tight end for the Seattle Seahawks and played in Super Bowl XL.
+dbpedia_similarity: 0.9418978
+
+
+-------------------------
+doc=354728 score=8.798235 shardIndex=0
+title: Nine Mile Falls School District 
+abstract: nine mile falls school district 325 179 public school district counties spokane county washington spokane stevens county washington stevens washington state washington united states usa serves communities nine mile falls washington nine mile falls suncrest washington suncrest
+default_abstract: | type                   =
+default_similarity: 0.0
+dbpedia_abstract: Nine Mile Falls School District No. 325/179 is a public school district in the counties of Spokane and Stevens, Washington, USA and serves the communities of Nine Mile Falls and Suncrest. As of October 2005, the district has an enrollment of 1,752 students.
+dbpedia_similarity: 0.78262377
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 3407+ hits document(s) that matched query 'abstract:macedonian abstract:radio abstract:television': 
+doc=215857 score=10.793814 shardIndex=0
+title: Macedonian Radio Television 
+abstract: macedonian radio television lang mk ??????????? ????? ?????????? transliteration macedonian transliteration makedonska radio televizija mrt officially national radio television lang mk ?????????? ??????????????? transliteration macedonian transliteration nacionalna radiotelevizija since 2019 public broadcasting organisation north macedonia founded 1993 assembly north macedonia assembly republic macedonia its legally defined service production broadcasting radio television programmes all genres which should satisfy public information cultural educational recreational needs people north macedonia mrt directed petar karanakov ref https web.archive.org web 20151223142030 https business.highbeam.com 436245 article 1g1 204209615 petar karanakov new executive director macedonian radio ref karanakov supervises 1,200 mrt staffers
+default_abstract: | founder             = Government of SR Macedonia
+default_similarity: 0.15389675
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=397293 score=8.911732 shardIndex=0
+title: Mizar (band) 
+abstract: mizar lang mk ????? ipa mk mi?zar ethnic macedonians macedonian rock band from skopje achieved status cult band especially north macedonia across former yugoslavian countries group notable its first mizar album self titled album first popular music album former yugoslavian countries macedonian language macedonian album major success listed among top ten rock albums ever released former yugoslavian countries mizar formed 1981 socialist republic macedonia because band's avant garde sound image its christianity christian leanings support macedonian self determination were viewed certain degree suspicion former authorities still group received great media attention including numerous appearances macedonian radio television national television 2014 documentary mizar star hope details band's origins
+default_abstract: }}
+default_similarity: 0.0
+dbpedia_abstract: Mizar (Macedonian: ????? [mi?zar]) is a Macedonian rock band from Skopje. They achieved a status of a cult band, especially in North Macedonia and across the former Yugoslavian countries. The group is notable for its first self-titled album, as it was the first popular music album in the former Yugoslavian countries in Macedonian language. The album was a major success and it is listed among the top ten rock albums ever released in former Yugoslavian countries. Mizar was formed in 1981 in the then Socialist Republic of Macedonia. Because of the band's avant-garde sound and image, its Christian leanings and support for Macedonian self-determination, they were viewed with certain degree of suspicion by the former authorities. Still, the group received great media attention including numerous appearances on the national television. The 2014 documentary Mizar: The Star of Hope details the band's origins.
+dbpedia_similarity: 0.94596756
+
+
+-------------------------
+doc=483970 score=7.9433994 shardIndex=0
+title: A1 Televizija 
+abstract: a1 televizija macedonian language macedonian ?1 ?????????? just a1 television channel republic macedonia second privately owned commercial television station country after teko tv broadcast from 22 january 1993 31 july 2011
+default_abstract: A1 Televizija (Macedonian: ??1 ??????????) or just A1 was a television channel in the Republic of Macedonia. The second privately owned commercial television station in the country (after Teko TV), it broadcast from 22 January 1993 to 31 July 2011.
+default_similarity: 0.9837388
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=255091 score=6.7395105 shardIndex=0
+title: FK Rabotni??ki 
+abstract: macedonian first football league file:gold medal cup.svg 16px champions 12 1941 1943 1952 53 1965 66 macedonian republic league 1965 66 1967 68 macedonian republic league 1967 68 1972 73 macedonian republic league 1972 73 1976 77 macedonian republic league 1976 77 1979 80 macedonian republic league 1979 80 2004 05 macedonian first football league 2004 05 2005 06 macedonian first football league 2005 06 2007 08 macedonian first football league 2007 08 2013 14 macedonian first football league 2013 14 runners up 2006 07 macedonian first football league 2006 07 2009 10 macedonian first football league 2009 10 2014 15 macedonian first football league 2014 15 macedonian second football league macedonian second league winners 1997 98 macedonian second football league 1997 98 macedonian football cup file:simple gold cup.svg 16px winners 10 1953 54 1956 57 1973 74 1977 78 1982 83 1987 88 2007 08 macedonian football cup 2007 08 2008 09 macedonian football cup 2008 09 2013 14 macedonian football cup 2013 14 2014 15 macedonian football cup 2014 15 runners up 2009 10 macedonian football cup 2009 10 2011 12 macedonian football cup 2011 12 2015 16 macedonian football cup 2015 16 macedonian football supercup macedonian supercup runners up 2015 macedonian football supercup 2015
+default_abstract: |
+default_similarity: 0.0
+dbpedia_abstract: FK Rabotnichki (Macedonian: ?? ??????????) or more commonly Rabotni??ki (old transliteration) and Rabotnicki is a football club that plays at the Toshe Proeski Arena in Skopje, North Macedonia. They currently compete in the Macedonian First League.
+dbpedia_similarity: 0.42748365
+
+
+-------------------------
+doc=261813 score=6.6692104 shardIndex=0
+title: FK Vardar 
+abstract: macedonian first football league macedonian first league winners 11 1992 93 macedonian first football league 1992 93 1993 94 macedonian first football league 1993 94 1994 95 macedonian first football league 1994 95 2001 02 macedonian first football league 2001 02 2002 03 macedonian first football league 2002 03 2011 12 macedonian first football league 2011 12 2012 13 macedonian first football league 2012 13 2014 15 macedonian first football league 2014 15 2015 16 macedonian first football league 2015 16 2016 17 macedonian first football league 2016 17 2019 20 macedonian first football league 2019 20
+default_abstract: | nickname = ??????-???? / Crveno-Crni (The Red-Blacks)
+default_similarity: 0.0
+dbpedia_abstract: FK Vardar Skopje (Macedonian: ?? ?????? ??????), or simply Vardar, is a football club based in the capital city of Skopje, North Macedonia. The club was founded in 1947 and they have been members of the Macedonian First Football League since its inception in 1992. The Toshe Proeski Arena has been the home ground of FK Vardar since 1947. Vardar is the most popular and renowned Macedonian football club both domestically and abroad, having won 11 national championships and 5 national cups.
+dbpedia_similarity: 0.40406954
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 0 hits document(s) that matched query 'abstract:normopathy': 
+havent find anything
+Enter the word you want to find abstract for ('X' for exit)
+Found 1407+ hits document(s) that matched query 'abstract:bell abstract:427': 
+doc=396038 score=9.939746 shardIndex=0
+title: Bell 427 
+abstract: bell 427 twin engine multirole light utility helicopter designed manufactured bell helicopter samsung aerospace samsung aerospace industries has been replaced production larger bell 429
+default_abstract: The Bell 427 is a twin-engine, multirole, light utility helicopter designed and manufactured by Bell Helicopter and Samsung Aerospace Industries. It has been replaced in production by the larger Bell 429.
+default_similarity: 0.9819805
+dbpedia_abstract: The Bell 427 is a twin-engine, multirole, light utility helicopter designed and manufactured by Bell Helicopter and Samsung Aerospace Industries. It has been replaced in production by the larger Bell 429.
+dbpedia_similarity: 0.9819805
+
+
+-------------------------
+doc=476900 score=6.3960547 shardIndex=0
+title: Eatonville, Toronto 
+abstract: eatonville neighbourhood toronto toronto ontario district etobicoke west central core eatonville bisected ontario highway 427 highway 427 community generally located north dundas street toronto dundas street west south rathburn road eatonville consists mainly low density residential homes constructed primarily 1950s east highway 427 1960s 1970s west highway 427 main arterial roads community west mall east mall burnhamthorpe road contain mix rental condominium high rise apartments townhouses cloverdale mall neighbourhood community retail areas along bloor street west dundas street west
+default_abstract: | subdivision_type    = Country
+default_similarity: 0.0
+dbpedia_abstract: Eatonville is a neighbourhood in Toronto, Ontario, Canada. It is located west of the central core in the former suburb of Etobicoke. Eatonville is bisected by Highway 427, with the community generally located north of Dundas Street West and south of Rathburn Road. Eatonville consists mainly of low density residential homes (constructed primarily in the 1950s east of Highway 427, and in the 1960s and 1970s west of Highway 427). The main arterial roads in the community, such as The West Mall, The East Mall and Burnhamthorpe Road, contain a mix of rental and condominium high-rise apartments and townhouses. Cloverdale Mall is in the neighbourhood, and there are community retail areas along Bloor Street West and Dundas Street West.
+dbpedia_similarity: 0.96442014
+
+
+-------------------------
+doc=442159 score=6.333912 shardIndex=0
+title: Indiana State Road 427 
+abstract: state road 427 sr 427 indiana state road state road north eastern section state indiana running about convert 15.5 mi km general northeast southwest direction connecting rural portions dekalb county indiana dekalb county sr 427 originally introduced 1932 routed between indiana state road 1 sr 1 north fort wayne indiana fort wayne auburn indiana auburn early 1940s sr 427 made its way ohio state line west edon ohio southern end moved twice first time us 27 north waterloo second time us 6 waterloo
+default_abstract: }}
+default_similarity: 0.0
+dbpedia_abstract: State Road 427 (SR 427) is a State Road in the north-eastern section of the state of Indiana. Running for about 15.5 miles (24.9 km) in a general northeast–southwest direction, connecting rural portions of Dekalb County. SR 427 was originally introduced in 1932 routed between SR 1, north of Fort Wayne, and Auburn. By the early 1940s SR 427 made its way to the Ohio state line, west of Edon, Ohio. The southern end was moved twice, the first time to US 27 north of Waterloo and the second time to US 6 in Waterloo.
+dbpedia_similarity: 0.92596775
+
+
+-------------------------
+doc=95551 score=6.133889 shardIndex=0
+title: Joel Tomkins 
+abstract: total 427 87 3 2 356
+default_abstract: |image           = Joel Tomkins.jpg
+default_similarity: 0.0
+dbpedia_abstract: Joel Andrew Tomkins (born 21 March 1987) is an English professional rugby league footballer plays in the second-row forward for the Catalans Dragons in the Betfred Super League, and has played for England at international level. He has previously played for the Wigan Warriors and Hull Kingston Rovers in the Super League. He also played professional rugby union for Saracens in the English Rugby Premiership and the England Saxons and England at international level.
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=383613 score=5.8884935 shardIndex=0
+title: 427 BC 
+abstract: 427 bc year roman calendar pre julian roman calendar time known year consulship ahala mugillanus less frequently year 327 ab urbe condita denomination 427 bc year has been used since early medieval period when anno domini calendar era became prevalent method europe naming years
+default_abstract: __NOTOC__
+default_similarity: 0.0
+dbpedia_abstract: Year 427 BC was a year of the pre-Julian Roman calendar. At the time, it was known as the Year of the Consulship of Ahala and Mugillanus (or, less frequently, year 327 Ab urbe condita). The denomination 427 BC for this year has been used since the early medieval period, when the Anno Domini calendar era became the prevalent method in Europe for naming years.
+dbpedia_similarity: 0.96887684
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1278+ hits document(s) that matched query 'abstract:frank abstract:swift': 
+doc=468540 score=7.913463 shardIndex=0
+title: Ultra-Thriller 
+abstract: ultra thriller series detective action fiction series published between august 1992 june 1993 archway paperbacks imprint simon schuster spin off hardy boys casefiles tom swift iv series joined boy inventor tom swift crime solving hardy boys frank joe although hardy boys pseudonym franklin w dixon used series more akin tom swift iv series victor appleton
+default_abstract: The Ultra-Thriller series is a  detective/action fiction series published between August 1992 and June 1993 by Archway Paperbacks (an imprint of Simon & Schuster). It was a spin-off of The Hardy Boys Casefiles and the Tom Swift IV series and joined boy inventor Tom Swift with the crime solving Hardy boys, Frank & Joe.
+default_similarity: 0.9329495
+dbpedia_abstract: The Ultra-Thriller series is a detective/action fiction series published between August 1992 and June 1993 by Archway Paperbacks (an imprint of Simon & Schuster). It was a spin-off of The Hardy Boys Casefiles and the Tom Swift IV series and joined boy inventor Tom Swift with the crime solving Hardy boys, Frank & Joe. Although The Hardy Boys pseudonym, Franklin W. Dixon was used, this series was more akin to the Tom Swift IV series by Victor Appleton.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=48798 score=6.723086 shardIndex=0
+title: Frank Lenz 
+abstract: frank lenz born 18 june 1967 san leandro california drummer from southern california who has done work many bands artists including richard swift weepies everest pedro lion starflyer 59 lassie foundation duraluxe map band map charity empressa his own solo work
+default_abstract: Frank Lenz (born 18 June 1967 in San Leandro, California) is a drummer from Southern California who has done work for many bands and artists, including Richard Swift, The Weepies, Everest, Pedro The Lion, Starflyer 59, Lassie Foundation, Duraluxe, Map, Charity Empressa, and his own solo work.
+default_similarity: 0.98709625
+dbpedia_abstract: Frank Lenz (born 18 June 1967 in San Leandro, California) is a drummer from Southern California who has done work for many bands and artists, including Richard Swift, The Weepies, Everest, Pedro The Lion, Starflyer 59, Lassie Foundation, Duraluxe, Map, Charity Empressa, and his own solo work.
+dbpedia_similarity: 0.98709625
+
+
+-------------------------
+doc=59977 score=6.2600627 shardIndex=0
+title: Frank Swift 
+abstract: frank victor swift 26 december 1913 6 february 1958 english association football footballer who played goalkeeper association football goalkeeper manchester city f.c manchester city england national football team england after starting his career local clubs near his home town blackpool 1932 he signed football league first division first division manchester city f.c manchester city whom he played his entire professional career swift broke manchester city first team 1933 taking part club's run 1934 fa cup final where club triumphed 2 1 against portsmouth f.c portsmouth three years later swift won english football champions league championship medal after playing every match manchester city's championship winning season war denied swift several years playing his prime though during wartime he chosen represent his country international matches after war he made his competitive international debut playing 19 internationals between 1946 1949 swift retired 1949 taking up career journalism football correspondent news world he died aged 44 munich air disaster after reporting manchester united f.c manchester united s uefa champions league european cup match against red star belgrade
+default_abstract: | birth_place    = Blackpool, Lancashire, England
+default_similarity: 0.06350006
+dbpedia_abstract: Frank Victor Swift (26 December 1913 – 6 February 1958) was an English footballer, who played as a goalkeeper for Manchester City and England. After starting his career with local clubs near his home town of Blackpool, in 1932 he was signed by First Division Manchester City, with whom he played his entire professional career. Swift broke into the Manchester City first team in 1933, taking part in the club's run to the 1934 FA Cup Final, where the club triumphed 2–1 against Portsmouth. Three years later Swift won a League Championship medal, after playing in every match of Manchester City's championship-winning season. War denied Swift several years of playing in his prime, though during wartime he was chosen to represent his country in international matches. After the war he made his competitive international debut, playing 19 internationals between 1946 and 1949. Swift retired in 1949, taking up a career in journalism as a football correspondent for the News of the World. He died, aged 44, in the Munich air disaster after reporting on Manchester United's European Cup match against Red Star Belgrade.
+dbpedia_similarity: 0.9165445
+
+
+-------------------------
+doc=237037 score=6.2289467 shardIndex=0
+title: Short-tailed swift 
+abstract: short tailed swift chaetura brachyura bird apodidae swift bird swift family biology family
+default_abstract: | genus = Chaetura
+default_similarity: 0.20412415
+dbpedia_abstract: The short-tailed swift (Chaetura brachyura) is a bird in the Apodidae, or swift family.
+dbpedia_similarity: 0.91287094
+
+
+-------------------------
+doc=213496 score=6.2123556 shardIndex=0
+title: Neotropical palm swift 
+abstract: neotropical palm swift fork tailed palm swift tachornis squamata swift bird swift native tropical south america from colombia venezuela guianas south northeastern peru brazil trinidad caribbean
+default_abstract: | genus = Tachornis
+default_similarity: 0.12309149
+dbpedia_abstract: The Neotropical palm swift or fork-tailed palm swift (Tachornis squamata) is a resident breeding bird from Colombia, Venezuela, the Guianas and Trinidad south to northeastern Peru and Brazil. This small swift is found locally in marshy habitats, or sometimes open forest, usually near Moriche Palms. It builds a C-shaped nest of feathers, saliva and plant material on the inside of the dead leaf of a Moriche Palm. Three white eggs are laid in the depression of the C, and incubated for 21 days to hatching. Neotropical palm swift is a slender, narrow-winged species, 13.2 cm long, with a long forked tail, and weighs 11 g. The call is a buzzed djjjjjj, like an insect. The nominate western form T. s. squamata has black-brown upperparts with a slight greenish gloss. The underparts are a paler brown with a white throat and central underbody. The eastern race T. s. semota of Trinidad, the Guianas and central and eastern Brazil is much darker, almost steel-black above and darker brown below. Juveniles are very similar, but have buff fringes to the upperparts and head in fresh plumage. Despite its shape and association with palms, it is in a different genus to the Asian and African palm swifts. Neotropical palm swift feeds in low flight on flying insects. It normally stays at less than 10 m above the ground. It normally occurs in small groups of up to 30 birds.
+dbpedia_similarity: 0.53383815
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1707+ hits document(s) that matched query 'abstract:history abstract:of abstract:lothian abstract:buses': 
+doc=110572 score=7.4029655 shardIndex=0
+title: River Almond, Lothian 
+abstract: river almond lang gd abhainn amain river lothian scotland 28 miles 45 nbsp km long rising hirst hill lanarkshire near shotts running through west lothian draining firth forth cramond edinburgh name almond amon simply old celtic river ref history livingstone william f hendrie ref
+default_abstract: thumb|250px|The River Almond and Naismith Bridge in Almondell and Calderwood Country Park
+default_similarity: 0.16222142
+dbpedia_abstract: The River Almond (Scottish Gaelic: Abhainn Amain) is a river in Lothian, Scotland. It is 28 miles (45 km) long, rising at Hirst Hill in Lanarkshire near Shotts and running through West Lothian, draining into the Firth of Forth at Cramond, Edinburgh. The name Almond/Amon is simply old Celtic for \
+dbpedia_similarity: 0.8534092
+
+
+-------------------------
+doc=134798 score=6.8152122 shardIndex=0
+title: John Home Robertson 
+abstract: john david home robertson born 5 december 1948 labour party uk labour politician scotland he member parliament united kingdom member parliament mp berwick east lothian uk parliament constituency berwick east lothian east lothian uk parliament constituency east lothian from 1978 2001 member scottish parliament msp east lothian scottish parliament constituency east lothian from 1999 until 2007
+default_abstract: |birth_place  = Edinburgh, Scotland
+default_similarity: 0.05143445
+dbpedia_abstract: John David Home Robertson (born 5 December 1948) is a Labour politician in Scotland. He was a Member of Parliament (MP) for Berwick and East Lothian and East Lothian from 1978 to 2001 and a Member of the Scottish Parliament (MSP) for East Lothian from 1999 until 2007.
+dbpedia_similarity: 0.8729749
+
+
+-------------------------
+doc=150163 score=6.7759333 shardIndex=0
+title: Stoneyburn 
+abstract: stoneyburn village west lothian scotland nearby towns include bathgate whitburn west lothian whitburn addiewell blackburn west lothian blackburn
+default_abstract: |map_type=Scotland
+default_similarity: 0.0
+dbpedia_abstract: Stoneyburn is a village in West Lothian, Scotland. Nearby towns include Bathgate, Whitburn, Addiewell and Blackburn.
+dbpedia_similarity: 0.86164045
+
+
+-------------------------
+doc=63005 score=6.702164 shardIndex=0
+title: Livingston Village 
+abstract: livingston village village west lothian dating back 12th century originally farming village west lothian now heart town livingston west lothian livingston
+default_abstract: | unitary_scotland                 = West Lothian
+default_similarity: 0.48795003
+dbpedia_abstract: Livingston Village is a village in West Lothian it dates back to the 12th century. Originally a farming village in West Lothian it is now in the heart of the town of Livingston.
+dbpedia_similarity: 0.94164723
+
+
+-------------------------
+doc=39045 score=6.2275696 shardIndex=0
+title: Earl of Morton 
+abstract: earl morton created peerage scotland 1458 james douglas 1st earl morton james douglas dalkeith along title lord aberdour granted latter title courtesy title eldest son heir earl morton family seat dalmahoy farms morton west lothian morton near kirknewton west lothian kirknewton west lothian
+default_abstract: The title Earl of Morton was created in the Peerage of Scotland in 1458 for James Douglas of Dalkeith. Along with it, the title Lord Aberdour was granted.
+default_similarity: 0.7164977
+dbpedia_abstract: The title Earl of Morton was created in the Peerage of Scotland in 1458 for James Douglas of Dalkeith. Along with it, the title Lord Aberdour was granted. This latter title is the courtesy title for the eldest son and heir to the Earl of Morton. The family seat is Dalmahoy Farms, near Kirknewton, West Lothian.
+dbpedia_similarity: 0.906103
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1072+ hits document(s) that matched query 'abstract:temple abstract:of abstract:artemis abstract:corfu': 
+doc=315508 score=7.6745744 shardIndex=0
+title: Artemis Fowl: The Eternity Code 
+abstract: artemis fowl eternity code known artemis fowl eternity code europe third book irish children's fiction author eoin colfer s artemis fowl series artemis fowl series preceded artemis fowl arctic incident followed artemis fowl opal deception storyline follows artemis fowl ii artemis fowl his companions struggle recover list concepts artemis fowl c cube c cube supercomputer artemis had constructed from fairy technology when jon spiro manages steal critical response generally favourable
+default_abstract: Artemis Fowl: The Eternity Code (known as Artemis Fowl and the Eternity Code in Europe) is the third book of Irish children's fiction author Eoin Colfer's Artemis Fowl series. It is preceded by Artemis Fowl: The Arctic Incident and followed by Artemis Fowl: The Opal Deception.
+default_similarity: 0.91132236
+dbpedia_abstract: Artemis Fowl: The Eternity Code (known as Artemis Fowl and the Eternity Code in Europe) is the third book of Irish children's fiction author Eoin Colfer's Artemis Fowl series. It is preceded by Artemis Fowl: The Arctic Incident and followed by Artemis Fowl: The Opal Deception. The storyline follows Artemis Fowl and his companions as they struggle to recover the \
+dbpedia_similarity: 0.937743
+
+
+-------------------------
+doc=101821 score=7.4869027 shardIndex=0
+title: Corfu (regional unit) 
+abstract: corfu lang el ?????????????? ??????? ??????????? one regional units greece part modern regions greece region ionian islands region ionian islands capital regional unit town corfu city corfu regional unit consists islands corfu paxoi othonoi ereikoussa mathraki several smaller islands all ionian sea
+default_abstract: | coor_pinpoint           =
+default_similarity: 0.0
+dbpedia_abstract: Corfu (Greek: ?????????????? ??????? ???????????) is one of the regional units of Greece. It is part of the region of Ionian Islands. The capital of the regional unit is the town of Corfu. The regional unit consists of the islands of Corfu, Paxoi, Othonoi, Ereikoussa, Mathraki and several smaller islands, all in the Ionian Sea.
+dbpedia_similarity: 0.91855866
+
+
+-------------------------
+doc=13010 score=7.2717123 shardIndex=0
+title: The Artemis Fowl Files 
+abstract: artemis fowl files 208 pages total companion book artemis fowl series artemis fowl series written eoin colfer contains two short stories one about captain holly short joining leprecon second artemis fowl seventh dwarf seventh dwarf about mulch diggums artemis fowl ii artemis fowl working together steal tiara also interviews main characters artemis fowl holly short author eoin colfer also includes several extra activities bits information including gnommish alphabet table fairy quiz spotter's guide fairies artemis fowl's report card fairy transport locations guide foaly s inventions crossword puzzle word search
+default_abstract: The Artemis Fowl Files (208 pages total) is a companion book to the Artemis Fowl series written by Eoin Colfer.
+default_similarity: 0.6751356
+dbpedia_abstract: The Artemis Fowl Files (208 pages total) is a companion book to the Artemis Fowl series written by Eoin Colfer. It contains two short stories, one about Captain Holly Short joining LEPrecon, and the second (\
+dbpedia_similarity: 0.731066
+
+
+-------------------------
+doc=289877 score=7.1449404 shardIndex=0
+title: Scillus 
+abstract: scillus skillous lang grc ???????? town triphylia district ancient elis situated 20 stadion unit stadia south olympia greece olympia ref cite strabo 8.3.14 ref 572 nbsp bce scilluntians assisted pyrrhus pisa pyrrhus king pisa greece pisa making war upon eleians were completely conquered latter both pisa scillus were razed ground ref cite pausanias 5 6 4 6.22.4 ref scillus remained desolate till about 392 nbsp bce when lacedaemonians who had few years previously compelled eleians renounce supremacy over dependent cities colonised scillus gave xenophon exile from ancient athens athens xenophon resided here more than twenty years probably composed anabasis xenophon anabasis here expelled from eleians soon after battle leuctra 371 nbsp bce he has left us description place which he says situated 20 stadia from sacred grove zeus road olympia from sparta stood upon river selinountas_ river selinus which also name river flowing temple artemis ephesus like latter abounded fish shell fish here xenophon from tenth spoils acquired asiatic campaign dedicated temple artemis imitation celebrated temple ephesus instituted festival goddess scillus stood amidst woods meadows afforded abundant pasture cattle while neighbouring mountains supplied wild hogs roebucks stags ref xen anab 5.3 7 13 ref when pausanias geographer pausanias visited scillus five centuries afterwards temple artemis still remained statue xenophon made pentelic marble ref cite pausanias 5 6 5 et seq ref scillus's site near modern village makrisia ref cite dare 31067 ref ref cite barrington 58 ref
+default_abstract: Scillus or Skillous () was a town of Triphylia, a district of ancient Elis, situated 20 stadia south of Olympia. In 572 BCE the Scilluntians assisted Pyrrhus, king of Pisa, in making war upon the Eleians; but they were completely conquered by the latter, and both Pisa and Scillus were razed to the ground.
+default_similarity: 0.50575656
+dbpedia_abstract: Scillus or Skillous (Ancient Greek: ????????) was a town of Triphylia, a district of ancient Elis, situated 20 stadia south of Olympia. In 572 BCE the Scilluntians assisted , king of Pisa, in making war upon the Eleians; but they were completely conquered by the latter, and both Pisa and Scillus were razed to the ground. Scillus remained desolate till about 392 BCE, when the Lacedaemonians, who had a few years previously compelled the Eleians to renounce their supremacy over their dependent cities, colonised Scillus and gave it to Xenophon, then an exile from Athens. Xenophon resided here more than twenty years, and probably composed the Anabasis here, but was expelled from it by the Eleians soon after the Battle of Leuctra, in 371 BCE. He has left us a description of the place, which he says was situated 20 stadia from the Sacred Grove of Zeus, on the road to Olympia from Sparta, It stood upon the river Selinus, which was also the name of the river flowing by the temple of Artemis at Ephesus, and like the latter it abounded in fish and shell-fish. Here Xenophon, from a tenth of the spoils acquired in the Asiatic campaign, dedicated a temple to Artemis, in imitation of the celebrated temple at Ephesus, and instituted a festival to the goddess. Scillus stood amidst woods and meadows, and afforded abundant pasture for cattle; while the neighbouring mountains supplied wild hogs, roebucks, and stags. When Pausanias visited Scillus five centuries afterwards the temple of Artemis still remained, and a statue of Xenophon, made of Pentelic marble. Scillus's site is near the modern village of Makrisia.
+dbpedia_similarity: 0.90046275
+
+
+-------------------------
+doc=217339 score=7.122092 shardIndex=0
+title: Cardiff Airport 
+abstract: seasonal corfu international airport corfu heraklion international airport heraklion lanzarote airport lanzarote palma de mallorca airport palma de mallorca
+default_abstract: | website             =
+default_similarity: 0.0
+dbpedia_abstract: Cardiff Airport (Welsh: Maes Awyr Caerdydd) (IATA: CWL, ICAO: EGFF) is the busiest airport in Wales. It has been under the ownership of the Welsh Government since March 2013, operating at an arm's length as a commercial business. Passenger numbers were 1.581 million in 2018 and are increasing year-on-year. Cardiff Airport is located near the village of Rhoose in the Vale of Glamorgan.
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 3 hits document(s) that matched query 'abstract:lynching abstract:of +abstract:irving +abstract:herman abstract:arthur': 
+doc=141609 score=6.33362 shardIndex=0
+title: I Love to Sing 
+abstract: side one i love sing paul misraki michael carr composer michael carr tommie connor life just bowl cherries ray henderson buddy g desylva lew brown can't take away from me george gershwin ira gershwin taking chance love vernon duke john la touche musician john latouche ted fetter ain't we got fun richard whiting raymond b egan raymond egan gus kahn you do something me cole porter song you do something me cole porter side two today i love everybody harold arlen dorothy fields cheek cheek irving berlin isn't love burton lane e y harburg time goes song time goes herman hupfeld comes love sam stept charles tobias lew brown blue skies 1926 song blue skies irving berlin
+default_abstract: [ Allmusic review]
+default_similarity: 0.0
+dbpedia_abstract: I Love to Sing is Alma Cogan's first album, released in 1958 on the His Masters Voice an EMI Records label. All the tracks on the album were arranged by Frank Cordell. The original mono recording has been re-issued on compact disc by EMI Records in 2003, combined with her next album, With You in Mind. All tracks were also included on the EMI Records 4-CD boxset The Girl with a Laugh in Her Voice in 2001.
+dbpedia_similarity: 0.06228411
+
+
+-------------------------
+doc=320155 score=5.9327626 shardIndex=0
+title: Washington Irving 
+abstract: washington irving april 3 1783 november 28 1859 american literature american short story writer essayist biographer historian diplomat early 19th century he best known his short stories rip van winkle 1819 legend sleepy hollow 1820 both which appear his collection sketch book geoffrey crayon gent his historical works include biographies oliver goldsmith muhammad george washington well several histories 15th century spain deal subjects alhambra christopher columbus moors irving served american ambassador spain 1840s born raised manhattan merchant family irving made his literary debut 1802 series observational letters morning chronicle written under pseudonym letters jonathan oldstyle jonathan oldstyle he temporarily moved england family business 1815 where he achieved fame publication sketch book geoffrey crayon gent serialized from 1819 20 he continued publish regularly throughout his life he completed five volume biography george washington just eight months before his death age 76 tarrytown new york irving one first american writers earn acclaim europe he encouraged other american authors nathaniel hawthorne henry wadsworth longfellow herman melville edgar allan poe he also admired some british writers including lord byron thomas campbell poet thomas campbell charles dickens mary shelley francis jeffrey walter scott he advocated writing legitimate profession argued stronger laws protect american writers from copyright infringement
+default_abstract: | birth_place = New York City, New York
+default_similarity: 0.0821648
+dbpedia_abstract: Washington Irving (April 3, 1783 – November 28, 1859) was an American short-story writer, essayist, biographer, historian, and diplomat of the early 19th century. He is best known for his short stories \
+dbpedia_similarity: 0.42524326
+
+
+-------------------------
+doc=148864 score=3.6196122 shardIndex=0
+title: Finkel 
+abstract: finkel finckel surname notable people name include alan finkel office chief scientist australia australia's chief scientist aryeh finkel rosh yeshiva modi'in illit brachfeld branch mir yeshiva jerusalem mir yeshiva benjamin finkel american mathematician educator binyomin beinush finkel rosh yeshiva mir yeshiva jerusalem from 1965 ndash 1990 caroline finkel british historian edwin finckel jazz composer eliezer yehuda finkel b 1879 eliezer yehuda finkel rosh yeshiva mir yeshiva belarus mir yeshiva poland jerusalem from 1917 ndash 1965 eliezer yehuda finkel b 1965 eliezer yehuda finkel current rosh yeshiva mir yeshiva jerusalem eliyahu boruch finkel lecturer mir yeshiva jerusalem frank finkel american who claimed have been only survivor battle little bighorn fyvush finkel american actor gedaliah finkel lecturer mir yeshiva jerusalem george finkel tv sports producer director irving finkel british philologist assyriologist howard finkel professional wrestling announcer jon finkel american magic gathering champion maurice herman finkel yiddish theatre performer miriam posner finkel miriam dorothy posner finkel american radiobiologist who made significant contributions molecular biology moishe finkel yiddish theatre manager nosson tzvi finkel slabodka nosson tzvi finkel alter slabodka nosson tzvi finkel mir nosson tzvi finkel rosh yeshiva mir yeshiva jerusalem from 1990 ndash 2008 raphael finkel american computer scientist shelly finkel american boxing promoter terri h finkel american pediatric rheumatologist immunologist
+default_abstract: Finkel or Finckel is a surname. Notable people with the name include:
+default_similarity: 0.36466247
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1353+ hits document(s) that matched query 'abstract:passyunk abstract:square abstract:philadelphia': 
+doc=425561 score=15.300135 shardIndex=0
+title: Point Breeze, Philadelphia 
+abstract: point breeze multicultural neighbourhood neighborhood south philadelphia philadelphia pennsylvania philadelphia pennsylvania united states bounded 25th street west washington avenue north broad street philadelphia broad street east mifflin street south southwest center city philadelphia pennsylvania southwest center city lies its north passyunk square philadelphia pennsylvania passyunk square lies its east point breeze separated from grays ferry philadelphia pennsylvania grays ferry west csx railway viaduct over 25th street
+default_abstract: |subdivision_type1      = State
+default_similarity: 0.0
+dbpedia_abstract: Point Breeze is a multicultural neighborhood in South Philadelphia in Philadelphia, Pennsylvania, United States. It is bounded by 25th Street to the west, Washington Avenue to the north, Broad Street to the east, and Mifflin Street to the south. Southwest Center City lies to its north, and Passyunk Square lies to its east. Point Breeze is separated from Grays Ferry to the west by a CSX railway viaduct over 25th Street.
+dbpedia_similarity: 0.91885376
+
+
+-------------------------
+doc=105239 score=14.794266 shardIndex=0
+title: Moyamensing, Philadelphia 
+abstract: moyamensing originally township fast land neck lying between passyunk square philadelphia passyunk wicaco ref where pennsylvania history began henry d paxon swedish colonial society 1926 ref act consolidation 1854 incorporated philadelphia county pennsylvania today encompasses several neighborhoods along moyamensing avenue corridor south philadelphia section philadelphia pennsylvania united states ref moyamensing philadelphia history http www.ushistory.org philadelphia incorporated.html ref
+default_abstract: | coordinates_footnotes   =
+default_similarity: 0.0
+dbpedia_abstract: Moyamensing was originally a township on the fast land of the Neck, lying between Passyunk and Wicaco. It was incorporated into the Philadelphia County, Pennsylvania and today encompasses several neighborhoods along the Moyamensing Avenue corridor in the South Philadelphia section of Philadelphia, Pennsylvania, United States.
+dbpedia_similarity: 0.79872304
+
+
+-------------------------
+doc=452026 score=10.89538 shardIndex=0
+title: Girard Estate, Philadelphia 
+abstract: girard estate also known girard estates part south philadelphia its boundaries stretch from south 22nd street west south 17th street east southern boundary clearly defined south side shunk street its northern boundary irregular stretching from north side porter street between south 17th street south 21st street along east side south 21st street west passyunk avenue along south side west passyunk avenue its northwestern tip south 22nd street named after stephen girard whose south philadelphia property developed 1920s city philadelphia
+default_abstract: |subdivision_type       = Country
+default_similarity: 0.0
+dbpedia_abstract: Girard Estate, also known as Girard Estates, is part of South Philadelphia. Its boundaries stretch from South 22nd Street on the west to South 17th Street on the east. The southern boundary is clearly defined as the south side of Shunk Street but its northern boundary is irregular in stretching from the north side of Porter Street between South 17th Street and South 21st Street, along east side of South 21st Street to West Passyunk Avenue, then along the south side of West Passyunk Avenue to its northwestern tip at South 22nd Street. It is named after Stephen Girard whose South Philadelphia property was developed in the 1920s by the City of Philadelphia.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=143974 score=8.320751 shardIndex=0
+title: Franklin Square station 
+abstract: franklin square station unused patco speedline station located franklin square philadelphia franklin square philadelphia pennsylvania united states planned reopen 2022
+default_abstract: | owned=Delaware River Port Authority
+default_similarity: 0.0
+dbpedia_abstract: Franklin Square is an unused PATCO Speedline station located at Franklin Square in Philadelphia, Pennsylvania, United States. The station first opened on June 7, 1936, along with 8th Street in Philadelphia and City Hall and Broadway in Camden, New Jersey, as part of Philadelphia Rapid Transit's Bridge Line service. The station was open for several intervals, each time eventually being closed for low ridership. Most recently, the station was refurbished and reopened as a PATCO station in 1976, coinciding with the United States Bicentennial celebration. The station remained open until 1979, when it was closed again due to low ridership. Approximate years of operation were 1936–1939, 1943–1946, 1952–1953, and 1976–1979, with sources varying on the details. All PATCO trains pass through Franklin Square upon crossing the Benjamin Franklin Bridge and entering Philadelphia. The platform and walkway are visible when looking out of the left side of the train. From the surface, entrances are visible, but sealed by concrete. The station will be rebuilt starting in 2020 and is expected to reopen in 2023.
+dbpedia_similarity: 0.6037063
+
+
+-------------------------
+doc=99542 score=8.169014 shardIndex=0
+title: Fitler Square, Philadelphia 
+abstract: fitler square refers 0.5 acre 0.20 ha public park philadelphia pennsylvania surrounding list philadelphia neighborhoods neighborhood same name square bounded east 23rd street west 24th street north panama street south pine street neighborhood encompasses much southwest center city philadelphia center city west rittenhouse square east schuylkill river fitler square named late 19th century list mayors philadelphia philadelphia mayor edwin henry fitler shortly after his death 1896 square lies land owned city philadelphia via department parks recreation ref http www.phila.gov parksandrecreation pages default.aspx department parks recreation ref cared through public private partnership between department parks recreation fitler square improvement association ref http www.fitlersquare.org fitler square improvement association inc ref
+default_abstract: |subdivision_type       = Country
+default_similarity: 0.0
+dbpedia_abstract: Fitler Square is a 0.5 acre (0.20 ha) public park in Philadelphia, Pennsylvania, bounded on the east by 23rd Street, on the west by 24th Street, on the north by Panama Street, and on the south by Pine Street. It is in the southwestern part of Philadelphia's Center City on land owned by City of Philadelphia via the Department of Parks and Recreation. Fitler Square was named for late 19th century Philadelphia mayor Edwin Henry Fitler shortly after his death in 1896. The Square is cared for through a public private partnership between the Department of Parks and Recreation and the Fitler Square Improvement Association.
+dbpedia_similarity: 0.89416826
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 102 hits document(s) that matched query 'abstract:tal abstract:banin': 
+doc=483456 score=7.1488867 shardIndex=0
+title: TAL 
+abstract: tal tal may refer toc right
+default_abstract: TAL or Tal may refer to:
+default_similarity: 0.8660254
+dbpedia_abstract: ""
+dbpedia_similarity: 0.0
+
+
+-------------------------
+doc=326766 score=6.959181 shardIndex=0
+title: Tal R 
+abstract: tal rosenzweig born 1967 known tal r danish artist based copenhagen
+default_abstract: Tal Rosenzweig (born 1967), known as Tal R, is a Danish artist based in Copenhagen.
+default_similarity: 1.0
+dbpedia_abstract: Tal Rosenzweig (born 1967), known as Tal R, is an Danish artist based in Copenhagen.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+doc=7340 score=6.4460173 shardIndex=0
+title: Tal-y-Cafn railway station 
+abstract: tal y cafn railway station located tal y cafn wales conwy valley line from llandudno junction railway station llandudno junction blaenau ffestiniog railway station blaenau ffestiniog
+default_abstract: | symbol_location = gb
+default_similarity: 0.0
+dbpedia_abstract: Tal-y-Cafn railway station is located at Tal-y-Cafn, Wales, on the Conwy Valley Line from Llandudno Junction to Blaenau Ffestiniog.
+dbpedia_similarity: 0.8811039
+
+
+-------------------------
+doc=279194 score=6.4324474 shardIndex=0
+title: Weissach im Tal 
+abstract: weissach im tal municipality gemeinde rems murr kreis district baden württemberg germany belongs metropolitan region stuttgart 31 december 2005 had population 7,205 weissach im tal town twinning twinned marly moselle marly france lommatzsch saxony mayor ian schölzel weissach im tal one few municipalities rems murr district which has areas aichholzhof biggest school complex called bildungszentrum weissach im tal all three types schools after elementary school hauptschule realschule gymnasium school gymnasium around radius about 30 nbsp km 16,6 nbsp nm
+default_abstract: |image_plan          =
+default_similarity: 0.0
+dbpedia_abstract: Weissach im Tal is a municipality (Gemeinde) in the Rems-Murr-Kreis district of Baden-Württemberg, Germany. It belongs to the metropolitan region of Stuttgart . On 31 December 2005 it had a population of 7,205. Weissach im Tal is twinned with Marly in France and Lommatzsch in Saxony. Mayor is Ian Schölzel. Weissach im Tal is one of a few municipalities in Rems-Murr district, which has no areas. In Aichholzhof is the biggest school complex, called \
+dbpedia_similarity: 0.8972259
+
+
+-------------------------
+doc=83221 score=6.3867836 shardIndex=0
+title: Transaction Application Language 
+abstract: transaction application language tal originally tandem application language block structured procedural language optimized use tandem computers tandem hardware tal resembles cross between c programming language c pascal programming language pascal original system programming language tandem complex instruction set computer cisc machines which had assembly language assembler assembler design concept tal evolution hewlett packard s system programming language spl intimately associated optimized microcode microprogrammed cisc instruction set each tal statement could easily compile sequence instructions manipulated data transient floating register stack register stack itself floated crest program's call stack memory allocation call stack language itself has appearance algol pascal programming language pascal begin end statements however its semantics far more like c programming language c does permit indefinite levels procedure nesting does pass complex structured arguments value does strictly type most variable references programming techniques much like c using pointers structures occasional overlays deliberate string handling casts when appropriate available datatypes include 8 bit 16 bit 32 bit introduced later 64 bit integers microcode level support available null terminated character strings however commonly used originally tandem nonstop operating system written tal recently much has been rewritten c tal has been deprecated new development migration from cisc risc tal updated replaced ptal compilers allowed tal accelerated re compiled native risc applications current migration from risc intel itanium 2 tal ptal has been replaced eptal again compilers allow tal ptal code accelerated re compiled native itanium applications foldoc
+default_abstract: "Transaction Application Language or TAL (originally \"Tandem Application Language\") is a block-structured, procedural language optimized for use on Tandem hardware. TAL resembles a cross between C and Pascal."
+default_similarity: 0.51847583
+dbpedia_abstract: Transaction Application Language or TAL (originally \
+dbpedia_similarity: 0.43033147
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 1935+ hits document(s) that matched query 'abstract:crisis abstract:of abstract:the abstract:late abstract:middle abstract:ages': 
+doc=354485 score=11.457169 shardIndex=0
+title: Lope de Barrientos 
+abstract: juan de mena's laberinto de fortuna about villena barrientos wikisourcelang es laberinto de fortuna juan de mena's coplas de la panadera about battle olmedo crisis late middle ages spanish inquisition dominican order
+default_abstract: | death_place = Cuenca, Toledo, Castile
+default_similarity: 0.0
+dbpedia_abstract: Lope de Barrientos (1382–1469), sometimes called Obispo Barrientos (\
+dbpedia_similarity: 0.30151135
+
+
+-------------------------
+doc=168162 score=9.862413 shardIndex=0
+title: Popular revolts in late-medieval Europe 
+abstract: popular revolts late medieval europe were uprisings rebellion s typically peasant s countryside bourgeois towns against nobleman nobles abbots king s during upheavals 14th through early 16th centuries part larger crisis late middle ages although sometimes known peasant revolt peasant revolts phenomenon popular uprisings broad scope just restricted peasants central europe balkan region rebellions expressed helped cause political social disunity paving way expansion ottoman empire
+default_abstract: "Popular revolts in late medieval Europe were uprisings and rebellions by (typically) peasants in the countryside, or the bourgeois in towns, against nobles, abbots and kings during the upheavals of the 14th through early 16th centuries, part of a larger \"Crisis of the Late Middle Ages\".  Although sometimes known as Peasant Revolts, the phenomenon of popular uprisings was of broad scope and not just restricted to peasants."
+default_similarity: 0.8514339
+dbpedia_abstract: Popular revolts in late medieval Europe were uprisings and rebellions by (typically) peasants in the countryside, or the bourgeois in towns, against nobles, abbots and kings during the upheavals of the 14th through early 16th centuries, part of a larger \
+dbpedia_similarity: 0.7186578
+
+
+-------------------------
+doc=342554 score=9.422508 shardIndex=0
+title: Alexander Neville 
+abstract: alexander neville circa 1340 1392 late middle ages late medieval prelate who served archbishop york from 1374 1388
+default_abstract: 1340
+default_similarity: 0.2581989
+dbpedia_abstract: Alexander Neville (c. 1340–1392) was a late medieval prelate who served as Archbishop of York from 1374 to 1388.
+dbpedia_similarity: 0.8944272
+
+
+-------------------------
+doc=123983 score=9.299622 shardIndex=0
+title: Martin le Franc 
+abstract: martin le franc circa 1410 1461 french poet late middle ages early renaissance
+default_abstract: Martin le Franc ( – 1461) was a French poet of the late Middle Ages and early Renaissance.
+default_similarity: 0.9574271
+dbpedia_abstract: Martin le Franc (c. 1410 – 1461) was a French poet of the late Middle Ages and early Renaissance. He was born in Normandy, and studied in Paris. He entered clerical orders, becoming an apostolic prothonotary, and later becoming secretary to both Antipope Felix V and Pope Nicholas V. He was named provost at Lausanne in 1443, and became canon of the Church of Geneva in 1447. In 1451 he was employed by the Duke of Savoy, and he became administrator of the abbey of Novalèse in 1459. Le Franc's most famous work was his huge, 24,000-verse composition Le Champion des Dames (The Champion of Women), dedicated to Philip the Good and dating from 1440 or 1442 (first printed in Lyon in 1485 and again in Paris in 1530). It recounts the nobility and deeds of many women throughout history, including Joan of Arc, and also fiercely attacks corruption in government as well as the hedonistic luxury of the aristocratic class. It was illuminated by Peronet Lamy. Martin le Franc is famous in music history for penning the phrase \
+dbpedia_similarity: 0.40050095
+
+
+-------------------------
+doc=207153 score=9.243744 shardIndex=0
+title: Bastard feudalism 
+abstract: bastard feudalism somewhat controversial term invented 19th century historians characterise form feudalism took late middle ages primarily england late middle ages its distinctive feature middle ranking figures rendered military political legal domestic service return money office influence result gentry began think themselves men lord rather than king individually known retinue retainers collectively affinity medieval grouping affinity lord among other terms
+default_abstract: "\"Bastard feudalism\" is a somewhat controversial term invented by 19th century historians to characterise the form feudalism took in the Late Middle Ages, primarily in England in the Late Middle Ages. Its distinctive feature is that middle-ranking figures rendered military, political, legal, or domestic service in return for money, office, or influence."
+default_similarity: 0.8261596
+dbpedia_abstract: \
+dbpedia_similarity: 0.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Found 5931+ hits document(s) that matched query 'abstract:county abstract:of abstract:roussillon': 
+doc=302163 score=9.479301 shardIndex=0
+title: Counts of Roussillon 
+abstract: counts roussillon lang ca comtes de rosselló lang fr comtes de roussillon lang la comites ruscinonensis who ruled over eponymous county roussillon
+default_abstract: thumb|200px|[[Coat of arms of the counts of Roussillon (see also senyera).]]
+default_similarity: 0.3223292
+dbpedia_abstract: This is a list of the counts of Roussillon (Catalan: Comtes de Rosselló, French: Comtes de Roussillon, Latin: Comites Ruscinonensis).
+dbpedia_similarity: 0.6197507
+
+
+-------------------------
+doc=392625 score=8.960617 shardIndex=0
+title: Rosselló (comarca) 
+abstract: roussillon lang ca rosselló comarques catalonia historical catalan comarca northern catalonia now part france french departments france department pyrénées orientales its capital perpignan catalan perpinyà rosselló has area 1,498 km 1990 rosselló had population 303,850 inhabitants density 202.8 people per km comprises most county roussillon historic county province roussillon
+default_abstract: right
+default_similarity: 0.0
+dbpedia_abstract: The comarca of Roussillon (Catalan: Rosselló) is a historical Catalan comarca of Northern Catalonia, now part of the French department of Pyrénées-Orientales. Its capital is Perpignan (Catalan: Perpinyà). Rosselló has an area of 1,498 km². In 1990, Rosselló had a population of 303,850 inhabitants, with a density of 202.8 people per km². It comprises most of the historic county and province of Roussillon.
+dbpedia_similarity: 0.85353756
+
+
+-------------------------
+doc=439282 score=8.6371155 shardIndex=0
+title: County of Roussillon 
+abstract: county roussillon lang ca comtat de rosselló ipa ca kum?tad d? rus???o ipa lang la comitatus ruscinonensis one catalan counties marca hispanica during middle ages rulers county were counts roussillon whose interests lay both north south pyrenees
+default_abstract: |conventional_long_name = County of Roussillon
+default_similarity: 0.41478068
+dbpedia_abstract: The County of Roussillon (Catalan: Comtat de Rosselló, IPA: [kum?tad d? rus???o], Latin: Comitatus Ruscinonensis) was one of the Catalan counties in the Marca Hispanica during the Middle Ages. The rulers of the county were the counts of Roussillon, whose interests lay both north and south of the Pyrenees.
+dbpedia_similarity: 0.8381581
+
+
+-------------------------
+doc=72233 score=7.9111285 shardIndex=0
+title: Ferdinand I of Aragon 
+abstract: ferdinand i spanish fernando i 27 november 1380 ndash 2 april 1416 igualada òdena named ferdinand antequera also just honest king kingdom aragon aragon kingdom valencia valencia kingdom majorca majorca kingdom sardinia sardinia nominal corsica king kingdom sicily sicily duke nominal duchy athens athens neopatria county barcelona count barcelona county roussillon roussillon county cerdanya cerdanya 1412 1416 he also regent crown castile castile 1406 1416
+default_abstract: | coronation   = January 1414 (Zaragoza)
+default_similarity: 0.0
+dbpedia_abstract: Ferdinand I (Spanish: Fernando I; 27 November 1380 – 2 April 1416 in Igualada, Òdena) named Ferdinand of Antequera and also the Just (or the Honest) was king of Aragon, Valencia, Majorca, Sardinia and (nominal) Corsica and king of Sicily, duke (nominal) of Athens and Neopatria, and count of Barcelona, Roussillon and Cerdanya (1412–1416). He was also regent of Castile (1406–1416).
+dbpedia_similarity: 0.6226002
+
+
+-------------------------
+doc=422754 score=7.698524 shardIndex=0
+title: Mercier, Quebec 
+abstract: mercier suburban town southwestern quebec canada roussillon regional county municipality located châteauguay river southwest montreal population canada 2016 census 13,115
+default_abstract: Mercier#Places}}
+default_similarity: 0.0
+dbpedia_abstract: Mercier is a suburban town in southwestern Quebec, Canada, in the Roussillon Regional County Municipality. It is located on the Châteauguay River, southwest of Montreal. The population as of the Canada 2016 Census was 13,115.
+dbpedia_similarity: 1.0
+
+
+-------------------------
+Enter the word you want to find abstract for ('X' for exit)
+Thats all, thank for using!
